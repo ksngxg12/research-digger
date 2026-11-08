@@ -1,0 +1,12 @@
+platform,journal_or_entry,url,coverage,access_method,last_successful_search
+PubMed/PMC,PubMed and PMC,https://pubmed.ncbi.nlm.nih.gov/,NO biology; cancer; biomedical motors,search/open; some CAPTCHA/429,2026-11-08
+Nature Portfolio,Nature Communications,https://www.nature.com/,basic mechanisms; materials; therapy,search result; article login block,2026-11-08
+Wiley,Small; Advanced Science; Angewandte Chemie,https://onlinelibrary.wiley.com/,basic; motors in cancer; NO therapy,abstract/full text and SI list,2026-11-08
+ACS Publications,ACS Nano; JACS,https://pubs.acs.org/,motors; NO chemistry; cancer,search index; direct page 403,2026-11-08
+RSC Publishing,Chemical Science,https://pubs.rsc.org/,NO chemistry and release,via PubMed/PMC/DOI,2026-11-08
+Elsevier,Materials Today Bio; Biomaterials Advances; JC Release,https://www.sciencedirect.com/,motors and biomedicine,PubMed/PMC fallback; some 403,2026-11-08
+Springer Nature,Journal of Nanobiotechnology,https://link.springer.com/,nanobiomedicine and tumor motors,article abstract,2026-11-08
+Crossref,Crossref search,https://search.crossref.org/,DOI and publication metadata,not directly searched,not searched
+OpenAlex,OpenAlex,https://openalex.org/,discovery and citation links,not directly searched,not searched
+arXiv/bioRxiv/ChemRxiv/medRxiv,preprints,https://arxiv.org/; https://www.biorxiv.org/; https://chemrxiv.org/; https://www.medrxiv.org/,physics; biology; chemistry; clinical,not directly searched,not searched
+
