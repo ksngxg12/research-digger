@@ -1,0 +1,776 @@
+[
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature",
+    "url": "https://www.nature.com/nature/",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.410830+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com",
+    "page_title": "Nature",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Communications",
+    "url": "https://www.nature.com/ncomms/",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.410830+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/ncomms/",
+    "page_title": "Nature Communications",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Nanotechnology",
+    "url": "https://www.nature.com/nnano/",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:21.410830+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/nnano/",
+    "page_title": "Nature Nanotechnology",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Materials",
+    "url": "https://www.nature.com/nmat/",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:21.410830+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/nmat/",
+    "page_title": "Nature Materials",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Biomedical Engineering",
+    "url": "https://www.nature.com/natbiomedeng/",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.411820+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/natbiomedeng/",
+    "page_title": "Nature Biomedical Engineering",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Cancer",
+    "url": "https://www.nature.com/natcancer/",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.411820+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/natcancer/",
+    "page_title": "Nature Cancer",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Reviews Cancer",
+    "url": "https://www.nature.com/nrc/",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.411820+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/nrc/",
+    "page_title": "Nature Reviews Cancer",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Nature Portfolio",
+    "journal": "Nature Reviews Materials",
+    "url": "https://www.nature.com/natrevmats/",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:21.411820+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.nature.com/natrevmats/",
+    "page_title": "Nature Reviews Materials",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Science/AAAS",
+    "journal": "Science",
+    "url": "https://www.science.org/journal/science",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.412820+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.science.org/journal/science",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Science/AAAS",
+    "journal": "Science Advances",
+    "url": "https://www.science.org/journal/sciadv",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:21.412820+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.science.org/journal/sciadv",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Science/AAAS",
+    "journal": "Science Robotics",
+    "url": "https://www.science.org/journal/scirobotics",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:22.127442+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.science.org/journal/scirobotics",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "ACS Nano",
+    "url": "https://pubs.acs.org/journal/ancac3",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:22.438810+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/ancac3",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "Nano Letters",
+    "url": "https://pubs.acs.org/journal/nalefd",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:22.494856+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/nalefd",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "ACS Applied Materials & Interfaces",
+    "url": "https://pubs.acs.org/journal/aamick",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:22.899375+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/aamick",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "ACS Applied Nano Materials",
+    "url": "https://pubs.acs.org/journal/aanmf6",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:23.055882+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/aanmf6",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "ACS Applied Bio Materials",
+    "url": "https://pubs.acs.org/journal/aabmcb",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:23.323216+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/aabmcb",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "Journal of Medicinal Chemistry",
+    "url": "https://pubs.acs.org/journal/jmcmar",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:23.471079+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/jmcmar",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "ACS Chemical Biology",
+    "url": "https://pubs.acs.org/journal/acbcct",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:23.756587+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/acbcct",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "ACS Publications",
+    "journal": "Chemical Reviews",
+    "url": "https://pubs.acs.org/journal/chreay",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:23.919644+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.acs.org/journal/chreay",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Advanced Materials",
+    "url": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:24.122750+08:00",
+    "http_status": 403,
+    "resolved_url": "https://advanced.onlinelibrary.wiley.com/journal/15214095",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Advanced Functional Materials",
+    "url": "https://advanced.onlinelibrary.wiley.com/journal/16163028",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:24.304252+08:00",
+    "http_status": 403,
+    "resolved_url": "https://advanced.onlinelibrary.wiley.com/journal/16163028",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Advanced Science",
+    "url": "https://advanced.onlinelibrary.wiley.com/journal/21983844",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:24.493888+08:00",
+    "http_status": 403,
+    "resolved_url": "https://advanced.onlinelibrary.wiley.com/journal/21983844",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Small",
+    "url": "https://small-journal.com/",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:24.661909+08:00",
+    "access": "入口请求失败",
+    "error": "HTTPSConnectionPool(host='small-journal.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='small-journal.com', port=443): Failed to resolve 'small-journal.com' ([Errno 11001] getaddrinfo failed)\"))",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Small Methods",
+    "url": "https://small-methods.com/",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.040885+08:00",
+    "access": "入口请求失败",
+    "error": "HTTPSConnectionPool(host='small-methods.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'small-methods.com'. (_ssl.c:1006)\")))",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Wiley",
+    "journal": "Angewandte Chemie International Edition",
+    "url": "https://onlinelibrary.wiley.com/journal/15213773",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.060944+08:00",
+    "http_status": 403,
+    "resolved_url": "https://onlinelibrary.wiley.com/journal/15213773",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "RSC Publishing",
+    "journal": "Soft Matter",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/sm",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:25.161059+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.rsc.org/en/journals/journalissues/sm",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "RSC Publishing",
+    "journal": "Lab on a Chip",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/lc",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:25.348087+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.rsc.org/en/journals/journalissues/lc",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "RSC Publishing",
+    "journal": "Nanoscale",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/nr",
+    "directions": [
+      "基础研究",
+      "NO化学/生物学",
+      "马达肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.429783+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.rsc.org/en/journals/journalissues/nr",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "RSC Publishing",
+    "journal": "Chemical Science",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/sc",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.434303+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.rsc.org/en/journals/journalissues/sc",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "RSC Publishing",
+    "journal": "Chemical Society Reviews",
+    "url": "https://pubs.rsc.org/en/journals/journalissues/cs",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.490158+08:00",
+    "http_status": 403,
+    "resolved_url": "https://pubs.rsc.org/en/journals/journalissues/cs",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Journal of Colloid and Interface Science",
+    "url": "https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:25.567541+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Biomaterials",
+    "url": "https://www.sciencedirect.com/journal/biomaterials",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.582242+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/biomaterials",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Acta Biomaterialia",
+    "url": "https://www.sciencedirect.com/journal/acta-biomaterialia",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.662043+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/acta-biomaterialia",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Bioactive Materials",
+    "url": "https://www.sciencedirect.com/journal/bioactive-materials",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:25.870598+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/bioactive-materials",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Journal of Controlled Release",
+    "url": "https://www.sciencedirect.com/journal/journal-of-controlled-release",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:26.074842+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/journal-of-controlled-release",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Advanced Drug Delivery Reviews",
+    "url": "https://www.sciencedirect.com/journal/advanced-drug-delivery-reviews",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:26.092635+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/advanced-drug-delivery-reviews",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Nitric Oxide",
+    "url": "https://www.sciencedirect.com/journal/nitric-oxide",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:26.097627+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/nitric-oxide",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Free Radical Biology and Medicine",
+    "url": "https://www.sciencedirect.com/journal/free-radical-biology-and-medicine",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:26.115627+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/free-radical-biology-and-medicine",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Redox Biology",
+    "url": "https://www.sciencedirect.com/journal/redox-biology",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:26.418649+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/redox-biology",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Elsevier/ScienceDirect",
+    "journal": "Biochemical Pharmacology",
+    "url": "https://www.sciencedirect.com/journal/biochemical-pharmacology",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:27.218059+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.sciencedirect.com/journal/biochemical-pharmacology",
+    "page_title": "ScienceDirect",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "APS",
+    "journal": "Physical Review Letters",
+    "url": "https://journals.aps.org/prl/",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:30.058345+08:00",
+    "http_status": 403,
+    "resolved_url": "https://journals.aps.org/prl/",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "APS",
+    "journal": "Physical Review E",
+    "url": "https://journals.aps.org/pre/",
+    "directions": [
+      "基础研究"
+    ],
+    "checked_at": "2026-11-16T09:10:30.936244+08:00",
+    "http_status": 403,
+    "resolved_url": "https://journals.aps.org/pre/",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "AACR",
+    "journal": "Cancer Research",
+    "url": "https://aacrjournals.org/cancerres",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:30.973741+08:00",
+    "http_status": 403,
+    "resolved_url": "https://aacrjournals.org/cancerres",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "AACR",
+    "journal": "Clinical Cancer Research",
+    "url": "https://aacrjournals.org/clincancerres",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:31.996695+08:00",
+    "http_status": 403,
+    "resolved_url": "https://aacrjournals.org/clincancerres",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "AACR",
+    "journal": "Cancer Immunology Research",
+    "url": "https://aacrjournals.org/cancerimmunolres",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.136958+08:00",
+    "http_status": 403,
+    "resolved_url": "https://aacrjournals.org/cancerimmunolres",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "PNAS",
+    "journal": "PNAS",
+    "url": "https://www.pnas.org/",
+    "directions": [
+      "基础研究",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.214307+08:00",
+    "http_status": 403,
+    "resolved_url": "https://www.pnas.org/",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "独立/学协会",
+    "journal": "Research",
+    "url": "https://spj.science.org/journal/research",
+    "directions": [
+      "基础研究",
+      "马达肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.304855+08:00",
+    "http_status": 403,
+    "resolved_url": "https://spj.science.org/journal/research",
+    "page_title": "Just a moment...",
+    "access": "入口访问受限；不能据此否定期刊存在",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Springer Nature/BMC",
+    "journal": "Journal of Nanobiotechnology",
+    "url": "https://jnanobiotechnology.biomedcentral.com/",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.314905+08:00",
+    "http_status": 200,
+    "resolved_url": "https://link.springer.com/journal/12951",
+    "page_title": "Home | Journal of Nanobiotechnology | Springer Nature Link",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "独立/学协会",
+    "journal": "Theranostics",
+    "url": "https://www.thno.org/",
+    "directions": [
+      "马达肿瘤治疗",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.340706+08:00",
+    "http_status": 200,
+    "resolved_url": "https://www.thno.org/",
+    "page_title": "Theranostics",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "BMJ",
+    "journal": "Journal for ImmunoTherapy of Cancer",
+    "url": "https://jitc.bmj.com/",
+    "directions": [
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.376910+08:00",
+    "http_status": 200,
+    "resolved_url": "https://jitc.bmj.com/",
+    "page_title": "Homepage | The Journal for ImmunoTherapy of Cancer",
+    "access": "入口可响应；不等同于目录/全文检索",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  },
+  {
+    "platform": "Sage",
+    "journal": "Antioxidants & Redox Signaling",
+    "url": "https://journals.sagepub.com/home/ars",
+    "directions": [
+      "NO化学/生物学",
+      "NO肿瘤治疗"
+    ],
+    "checked_at": "2026-11-16T09:10:32.505014+08:00",
+    "access": "入口请求失败",
+    "error": "HTTPSConnectionPool(host='journals.sagepub.com', port=443): Max retries exceeded with url: /home/ars (Caused by ConnectTimeoutError(<HTTPSConnection(host='journals.sagepub.com', port=443) at 0x27d8c8b8d90>, 'Connection to journals.sagepub.com timed out. (connect timeout=22)'))",
+    "last_successful_search": "本期数据库检索覆盖可含本刊，但未逐刊目录检索；不虚填逐刊成功时间"
+  }
+]

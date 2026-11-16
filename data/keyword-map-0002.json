@@ -1,0 +1,61 @@
+{
+  "updated": "2026-11-16T09:25:42+08:00",
+  "executed": [
+    [
+      "A",
+      "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (propulsion OR hydrodynamics OR \"Brownian motion\" OR chemotaxis OR confinement OR \"complex fluid\" OR \"collective behavior\" OR \"active matter\")",
+      "推进机制、介质与群集"
+    ],
+    [
+      "B",
+      "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (cancer OR tumor OR tumour OR neoplasm OR oncology)",
+      "运动独立递送/治疗贡献"
+    ],
+    [
+      "C1",
+      "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS)",
+      "NO生成是否驱动运动，不强制肿瘤词"
+    ],
+    [
+      "C2",
+      "(\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (cancer OR tumor OR tumour OR neoplasm OR oncology)",
+      "NO肿瘤效应，不强制马达词"
+    ],
+    [
+      "C3",
+      "(\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (donor OR generation OR release OR detection OR flux) AND ((cancer OR tumor OR tumour OR neoplasm OR oncology) OR physiological OR serum OR plasma)",
+      "可迁移供体、释放与检测"
+    ]
+  ],
+  "expansion": [
+    "self-diffusiophoresis",
+    "self-electrophoresis",
+    "bubble propulsion",
+    "Brownian motion",
+    "collective behavior",
+    "confinement",
+    "complex fluid",
+    "BNN6",
+    "S-nitroso-N-acetylpenicillamine（SNAP，禁裸缩写）",
+    "GSNO",
+    "RSNO",
+    "diazeniumdiolate",
+    "NONOate",
+    "NOS2/iNOS",
+    "NO flux",
+    "mitochondria",
+    "angiogenesis",
+    "vascular normalization",
+    "extracellular matrix",
+    "immune microenvironment",
+    "metastasis",
+    "resistance",
+    "structured illumination",
+    "facet-distribution controls",
+    "hyaluronidase",
+    "nitrite reductase",
+    "adenine nucleotides",
+    "CCS/MT2A/ATP7B"
+  ],
+  "note": "扩展词库不等于每词都已执行；实际组合以search-log为准"
+}

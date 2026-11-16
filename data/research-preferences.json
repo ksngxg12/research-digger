@@ -1,0 +1,19 @@
+{
+  "language": "中文，保留英文标题与术语",
+  "directions": [
+    "基础研究",
+    "马达肿瘤治疗",
+    "NO驱动/递送/联合/相邻研究"
+  ],
+  "experimental_conditions": "用户未提供，不预设实验设备或生物安全条件",
+  "increment_start": "2026-11-09T09:07:37+08:00",
+  "overlap": "2026-11-09整日，边界时刻无法核实单列",
+  "backfill_start": "2026-10-17",
+  "search_cutoff": "2026-11-16T09:23:41.402486+08:00",
+  "formal_history": [
+    "0001",
+    "0002"
+  ],
+  "draft_history": "2026-11-09待修订，非正式报告",
+  "repository": "https://github.com/ksngxg12/research-digger"
+}

@@ -1,0 +1,717 @@
+[
+  {
+    "route": "A",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28propulsion+OR+hydrodynamics+OR+%22Brownian+motion%22+OR+chemotaxis+OR+confinement+OR+%22complex+fluid%22+OR+%22collective+behavior%22+OR+%22active+matter%22%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (propulsion OR hydrodynamics OR \"Brownian motion\" OR chemotaxis OR confinement OR \"complex fluid\" OR \"collective behavior\" OR \"active matter\") AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "推进机制、介质与群集",
+    "time": "2026-11-16T09:04:22.761407+08:00",
+    "hitCount": 28,
+    "retrieved": 28,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research",
+    "included": null,
+    "restriction": "探索检索；未完整筛查；C2/C3可能截断，仅用于调整字段，不作为排除依据"
+  },
+  {
+    "route": "B",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (cancer OR tumor OR tumour OR neoplasm OR oncology) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "运动独立递送/治疗贡献",
+    "time": "2026-11-16T09:04:22.761407+08:00",
+    "hitCount": 19,
+    "retrieved": 19,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research",
+    "included": null,
+    "restriction": "探索检索；未完整筛查；C2/C3可能截断，仅用于调整字段，不作为排除依据"
+  },
+  {
+    "route": "C1",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+SNAP+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "(micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR SNAP OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "NO生成是否驱动运动，不强制肿瘤词",
+    "time": "2026-11-16T09:04:22.762409+08:00",
+    "hitCount": 4,
+    "retrieved": 4,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research",
+    "included": null,
+    "restriction": "探索检索；未完整筛查；C2/C3可能截断，仅用于调整字段，不作为排除依据"
+  },
+  {
+    "route": "C2",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+SNAP+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29+AND+%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "(\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR SNAP OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (cancer OR tumor OR tumour OR neoplasm OR oncology) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "NO肿瘤效应，不强制马达词",
+    "time": "2026-11-16T09:04:22.763411+08:00",
+    "hitCount": 967,
+    "retrieved": 967,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research",
+    "included": null,
+    "restriction": "探索检索；未完整筛查；C2/C3可能截断，仅用于调整字段，不作为排除依据"
+  },
+  {
+    "route": "C3",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+SNAP+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29+AND+%28donor+OR+generation+OR+release+OR+detection+OR+flux%29+AND+%28%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29+OR+physiological+OR+serum+OR+plasma%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "(\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR SNAP OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (donor OR generation OR release OR detection OR flux) AND ((cancer OR tumor OR tumour OR neoplasm OR oncology) OR physiological OR serum OR plasma) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "可迁移供体、释放与检测",
+    "time": "2026-11-16T09:04:22.763411+08:00",
+    "hitCount": 1280,
+    "retrieved": 1000,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research",
+    "included": null,
+    "restriction": "探索检索；未完整筛查；C2/C3可能截断，仅用于调整字段，不作为排除依据"
+  },
+  {
+    "route": "A",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28propulsion+OR+hydrodynamics+OR+%22Brownian+motion%22+OR+chemotaxis+OR+confinement+OR+%22complex+fluid%22+OR+%22collective+behavior%22+OR+%22active+matter%22%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "TITLE_ABS:((micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (propulsion OR hydrodynamics OR \"Brownian motion\" OR chemotaxis OR confinement OR \"complex fluid\" OR \"collective behavior\" OR \"active matter\")) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "推进机制、介质与群集",
+    "time": "2026-11-16T09:05:27.285492+08:00",
+    "hitCount": 13,
+    "retrieved": 13,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research-refined",
+    "included": 4
+  },
+  {
+    "route": "B",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "TITLE_ABS:((micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (cancer OR tumor OR tumour OR neoplasm OR oncology)) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "运动独立递送/治疗贡献",
+    "time": "2026-11-16T09:05:27.285492+08:00",
+    "hitCount": 5,
+    "retrieved": 5,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research-refined",
+    "included": 1
+  },
+  {
+    "route": "C1",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28micromotor+OR+nanomotor+OR+microswimmer+OR+microrobot+OR+%22active+colloid%22+OR+%22self-propelled+particle%22+OR+%22Janus+particle%22+OR+%22biohybrid+microrobot%22+OR+%22micro-+and+nanomotor%22+OR+nanorobot%29+AND+%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "TITLE_ABS:((micromotor OR nanomotor OR microswimmer OR microrobot OR \"active colloid\" OR \"self-propelled particle\" OR \"Janus particle\" OR \"biohybrid microrobot\" OR \"micro- and nanomotor\" OR nanorobot) AND (\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS)) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "NO生成是否驱动运动，不强制肿瘤词",
+    "time": "2026-11-16T09:05:27.286482+08:00",
+    "hitCount": 0,
+    "retrieved": 0,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research-refined",
+    "included": 0
+  },
+  {
+    "route": "C2",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29+AND+%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "TITLE_ABS:((\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (cancer OR tumor OR tumour OR neoplasm OR oncology)) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "NO肿瘤效应，不强制马达词",
+    "time": "2026-11-16T09:05:27.286482+08:00",
+    "hitCount": 48,
+    "retrieved": 48,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research-refined",
+    "included": 2
+  },
+  {
+    "route": "C3",
+    "source": "Europe PMC REST",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28%22nitric+oxide%22+OR+%22S-nitrosothiol%22+OR+GSNO+OR+NONOate+OR+diazeniumdiolate+OR+%22nitric+oxide+synthase%22+OR+iNOS%29+AND+%28donor+OR+generation+OR+release+OR+detection+OR+flux%29+AND+%28%28cancer+OR+tumor+OR+tumour+OR+neoplasm+OR+oncology%29+OR+physiological+OR+serum+OR+plasma%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&pageSize=1000&resultType=core&sort=FIRST_PDATE_D+desc",
+    "query": "TITLE_ABS:((\"nitric oxide\" OR \"S-nitrosothiol\" OR GSNO OR NONOate OR diazeniumdiolate OR \"nitric oxide synthase\" OR iNOS) AND (donor OR generation OR release OR detection OR flux) AND ((cancer OR tumor OR tumour OR neoplasm OR oncology) OR physiological OR serum OR plasma)) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "reason": "可迁移供体、释放与检测",
+    "time": "2026-11-16T09:05:27.286482+08:00",
+    "hitCount": 22,
+    "retrieved": 22,
+    "status": "success",
+    "coverage": "增量2026-11-09 09:07:37 +08至本次截止；日期检索重叠11-09；额外回查10-17起；需逐篇核首发日期",
+    "log_group": "research-refined",
+    "included": 3
+  },
+  {
+    "route": "bivo-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1021/acsnano.9b03184",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1021%2Facsnano.9b03184&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:05.033427+08:00",
+    "hitCount": 1,
+    "retrieved": 1,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "haase-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1021/acsnano.8b06610",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1021%2Facsnano.8b06610&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:05.033427+08:00",
+    "hitCount": 1,
+    "retrieved": 1,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "chitin-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1016/j.cej.2024.158988",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fj.cej.2024.158988&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:05.034421+08:00",
+    "hitCount": 0,
+    "retrieved": 0,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "marangoni-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1103/PhysRevFluids.5.084004",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1103%2FPhysRevFluids.5.084004&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:05.034421+08:00",
+    "hitCount": 0,
+    "retrieved": 0,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "mito-neighbor",
+    "source": "Europe PMC",
+    "query": "AUTH_LAST:Castello AND (\"cytochrome\" OR \"nitrite\")",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH_LAST%3ACastello+AND+%28%22cytochrome%22+OR+%22nitrite%22%29&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:06.288309+08:00",
+    "hitCount": 3,
+    "retrieved": 3,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "arg-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1002/exp2.70238",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1002%2Fexp2.70238&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:06.292814+08:00",
+    "hitCount": 1,
+    "retrieved": 1,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "copper-neighbor",
+    "source": "Europe PMC",
+    "query": "DOI:10.1126/science.abf0529",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1126%2Fscience.abf0529&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:06.295824+08:00",
+    "hitCount": 1,
+    "retrieved": 1,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "jbc",
+    "source": "Europe PMC",
+    "query": "DOI:10.1016/j.jbc.2026.113526",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fj.jbc.2026.113526&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:07.736357+08:00",
+    "hitCount": 1,
+    "retrieved": 1,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "synonyms",
+    "source": "Europe PMC",
+    "query": "TITLE_ABS:((\"nitric oxide\" OR \"S-nitroso-N-acetylpenicillamine\" OR BNN6 OR \"L-arginine\") AND (\"micro/nanomotor\" OR nanomotors OR micromotors OR \"biohybrid microrobots\")) AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%28%22nitric+oxide%22+OR+%22S-nitroso-N-acetylpenicillamine%22+OR+BNN6+OR+%22L-arginine%22%29+AND+%28%22micro%2Fnanomotor%22+OR+nanomotors+OR+micromotors+OR+%22biohybrid+microrobots%22%29%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:09.112459+08:00",
+    "hitCount": 0,
+    "retrieved": 0,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "mesh",
+    "source": "Europe PMC",
+    "query": "(MeSH:\"Nitric Oxide\" AND MeSH:\"Neoplasms\") AND FIRST_PDATE:[2026-10-17 TO 2026-11-16]",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28MeSH%3A%22Nitric+Oxide%22+AND+MeSH%3A%22Neoplasms%22%29+AND+FIRST_PDATE%3A%5B2026-10-17+TO+2026-11-16%5D&format=json&resultType=core&pageSize=1000",
+    "time": "2026-11-16T09:08:09.211880+08:00",
+    "hitCount": 4,
+    "retrieved": 4,
+    "status": "success",
+    "log_group": "followup",
+    "included": null
+  },
+  {
+    "route": "arxiv",
+    "source": "arxiv",
+    "query": "https://export.arxiv.org/api/query?search_query=(all:microswimmer+OR+all:%22active+colloid%22+OR+all:microrobot)+AND+submittedDate:[202610170000+TO+202611160108]&max_results=100&sortBy=submittedDate&sortOrder=descending",
+    "entry": "https://export.arxiv.org/api/query?search_query=(all:microswimmer+OR+all:%22active+colloid%22+OR+all:microrobot)+AND+submittedDate:[202610170000+TO+202611160108]&max_results=100&sortBy=submittedDate&sortOrder=descending",
+    "status": "200",
+    "time": "2026-11-16T09:08:15.494032+08:00",
+    "bytes": 17074,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": 0,
+    "hitCount": 7,
+    "retrieved": 7,
+    "restriction": "仅题名/摘要筛查；相关理论/预印本候补，见候选台账；不代表无相关研究"
+  },
+  {
+    "route": "pubmed",
+    "source": "pubmed",
+    "query": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(%22Nitric+Oxide%22[MeSH+Terms]+AND+%22Neoplasms%22[MeSH+Terms])+AND+2026/10/17:2026/11/16[EPDAT]&retmode=json&retmax=200",
+    "entry": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(%22Nitric+Oxide%22[MeSH+Terms]+AND+%22Neoplasms%22[MeSH+Terms])+AND+2026/10/17:2026/11/16[EPDAT]&retmode=json&retmax=200",
+    "status": "200",
+    "time": "2026-11-16T09:08:15.494032+08:00",
+    "bytes": 292,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": 1,
+    "hitCount": 2,
+    "retrieved": 2,
+    "restriction": "MeSH索引可能滞后；与自由词互补；两条均为原创，Arg-CpG纳入，色氨酸/黑色素瘤体外研究列候补，不作已完成去重"
+  },
+  {
+    "route": "biorxiv",
+    "source": "biorxiv",
+    "query": "https://api.biorxiv.org/details/biorxiv/2026-11-09/2026-11-16/0",
+    "entry": "https://api.biorxiv.org/details/biorxiv/2026-11-09/2026-11-16/0",
+    "status": "200",
+    "time": "2026-11-16T09:08:15.495030+08:00",
+    "bytes": 68957,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": null,
+    "restriction": "初页探测，最终分页/关键词筛查另见preprint-pagination记录"
+  },
+  {
+    "route": "chemrxiv",
+    "source": "chemrxiv",
+    "query": "https://chemrxiv.org/engage/chemrxiv/search-dashboard?query=nitric%20oxide",
+    "entry": "https://chemrxiv.org/engage/chemrxiv/search-dashboard?query=nitric%20oxide",
+    "status": "403",
+    "time": "2026-11-16T09:08:15.495030+08:00",
+    "bytes": 5673,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": null
+  },
+  {
+    "route": "medrxiv",
+    "source": "medrxiv",
+    "query": "https://api.biorxiv.org/details/medrxiv/2026-11-09/2026-11-16/0",
+    "entry": "https://api.biorxiv.org/details/medrxiv/2026-11-09/2026-11-16/0",
+    "status": "200",
+    "time": "2026-11-16T09:08:15.495030+08:00",
+    "bytes": 86820,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": null,
+    "restriction": "初页探测，最终分页/关键词筛查另见preprint-pagination记录"
+  },
+  {
+    "route": "nature-journals",
+    "source": "nature-journals",
+    "query": "https://www.nature.com/siteindex",
+    "entry": "https://www.nature.com/siteindex",
+    "status": "200",
+    "time": "2026-11-16T09:08:15.921735+08:00",
+    "bytes": 182443,
+    "result_count": "待解析，不能把入口访问当完整检索",
+    "log_group": "channels",
+    "included": null
+  },
+  {
+    "route": "引用及作者追踪",
+    "source": "OpenAlex",
+    "seed": "10.1002/smtd.71200",
+    "time": "2026-11-16T09:11:04.885226+08:00",
+    "entry": "https://api.openalex.org/works/https://doi.org/10.1002/smtd.71200",
+    "metadata_status": 200,
+    "query": "cites:W7225752671,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "citation_status": 200,
+    "citation_count": 0,
+    "author": {
+      "id": "https://openalex.org/A5020086866",
+      "display_name": "Katherine Villa",
+      "orcid": "https://orcid.org/0000-0003-1917-0299",
+      "observed_orcids": [
+        "https://orcid.org/0000-0003-1917-0299"
+      ]
+    },
+    "author_query": "author.id:A5020086866,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "author_status": 200,
+    "author_count": 1,
+    "log_group": "tracking",
+    "included": null
+  },
+  {
+    "route": "引用及作者追踪",
+    "source": "OpenAlex",
+    "seed": "10.1021/acsami.6c18132",
+    "time": "2026-11-16T09:11:04.886740+08:00",
+    "entry": "https://api.openalex.org/works/https://doi.org/10.1021/acsami.6c18132",
+    "metadata_status": 200,
+    "query": "cites:W7226934081,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "citation_status": 200,
+    "citation_count": 0,
+    "author": {
+      "id": "https://openalex.org/A5073511264",
+      "display_name": "Xingrong Ju",
+      "orcid": "https://orcid.org/0000-0002-1439-7913",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-1439-7913",
+        "https://orcid.org/0000-0003-3886-0172"
+      ]
+    },
+    "author_query": "author.id:A5073511264,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "author_status": 200,
+    "author_count": 1,
+    "log_group": "tracking",
+    "included": null
+  },
+  {
+    "route": "引用及作者追踪",
+    "source": "OpenAlex",
+    "seed": "10.1126/sciadv.aeg8936",
+    "time": "2026-11-16T09:11:04.886740+08:00",
+    "entry": "https://api.openalex.org/works/https://doi.org/10.1126/sciadv.aeg8936",
+    "metadata_status": 200,
+    "query": "cites:W7226039486,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "citation_status": 200,
+    "citation_count": 0,
+    "author": {
+      "id": "https://openalex.org/A5079555879",
+      "display_name": "Peifeng Liu",
+      "orcid": "https://orcid.org/0000-0001-7733-2511",
+      "observed_orcids": [
+        "https://orcid.org/0000-0001-7733-2511",
+        "https://orcid.org/0000-0003-0731-2376"
+      ]
+    },
+    "author_query": "author.id:A5079555879,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "author_status": 200,
+    "author_count": 1,
+    "log_group": "tracking",
+    "included": null
+  },
+  {
+    "route": "引用及作者追踪",
+    "source": "OpenAlex",
+    "seed": "10.1016/j.niox.2026.11.001",
+    "time": "2026-11-16T09:11:07.269493+08:00",
+    "entry": "https://api.openalex.org/works/https://doi.org/10.1016/j.niox.2026.11.001",
+    "metadata_status": 200,
+    "query": "cites:W7202198258,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "citation_status": 200,
+    "citation_count": 0,
+    "author": {
+      "id": "https://openalex.org/A5019586402",
+      "display_name": "Robert Ο. Poyton",
+      "orcid": null,
+      "observed_orcids": []
+    },
+    "author_query": "author.id:A5019586402,from_publication_date:2026-10-17,to_publication_date:2026-11-16",
+    "author_status": 200,
+    "author_count": 1,
+    "log_group": "tracking",
+    "included": null
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1002/smtd.71200",
+    "query": "10.1002/smtd.71200",
+    "time": "2026-11-16T09:06:26.051759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.71200",
+      "bytes": 5554
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1002/smtd.71200",
+      "bytes": 10375
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1021/acsami.6c18132",
+    "query": "10.1021/acsami.6c18132",
+    "time": "2026-11-16T09:06:26.051759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://pubs.acs.org/aamick/article/doi/10.1021/acsami.6c18132/5470837/Food-Grade-Hyaluronidase-Driven-Janus-Zein",
+      "bytes": 5796
+    },
+    "crossref": {
+      "status": 429,
+      "url": "https://api.crossref.org/works/10.1021/acsami.6c18132",
+      "bytes": 0
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1021/acsami.6c14486",
+    "query": "10.1021/acsami.6c14486",
+    "time": "2026-11-16T09:06:26.051759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://pubs.acs.org/aamick/article/doi/10.1021/acsami.6c14486/5469007/Enzyme-Powered-Nanomotor-as-a-Mobile",
+      "bytes": 5757
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1021/acsami.6c14486",
+      "bytes": 32660
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1126/sciadv.aeg8936",
+    "query": "10.1126/sciadv.aeg8936",
+    "time": "2026-11-16T09:06:26.052759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8936",
+      "bytes": 5558
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1126/sciadv.aeg8936",
+      "bytes": 16073
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1016/j.niox.2026.11.001",
+    "query": "10.1016/j.niox.2026.11.001",
+    "time": "2026-11-16T09:06:26.052759+08:00",
+    "status": {
+      "status": 200,
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S108986032600176X",
+      "bytes": 2752
+    },
+    "crossref": {
+      "status": 429,
+      "url": "https://api.crossref.org/works/10.1016/j.niox.2026.11.001",
+      "bytes": 0
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1016/j.jcis.2026.141933",
+    "query": "10.1016/j.jcis.2026.141933",
+    "time": "2026-11-16T09:06:26.052759+08:00",
+    "status": {
+      "status": 200,
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021979726021107",
+      "bytes": 2708
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1016/j.jcis.2026.141933",
+      "bytes": 15804
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1002/smll.76603",
+    "query": "10.1002/smll.76603",
+    "time": "2026-11-16T09:06:26.052759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76603",
+      "bytes": 5554
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1002/smll.76603",
+      "bytes": 23594
+    },
+    "included": 1,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1021/acsnano.9b03184",
+    "query": "10.1021/acsnano.9b03184",
+    "time": "2026-11-16T09:06:26.053759+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://pubs.acs.org/doi/10.1021/acsnano.9b03184",
+      "bytes": 5516
+    },
+    "crossref": {
+      "status": 429,
+      "url": "https://api.crossref.org/works/10.1021/acsnano.9b03184",
+      "bytes": 0
+    },
+    "included": 0,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1016/j.jbc.2026.113526",
+    "query": "10.1016/j.jbc.2026.113526",
+    "time": "2026-11-16T09:06:28.395363+08:00",
+    "status": {
+      "status": 200,
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021925826023987",
+      "bytes": 2717
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1016/j.jbc.2026.113526",
+      "bytes": 31577
+    },
+    "included": 0,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "DOI核验/全文请求",
+    "source": "Crossref及出版社",
+    "entry": "https://doi.org/10.1126/science.abf0529",
+    "query": "10.1126/science.abf0529",
+    "time": "2026-11-16T09:06:28.463562+08:00",
+    "status": {
+      "status": 403,
+      "url": "https://www.science.org/doi/10.1126/science.abf0529",
+      "bytes": 5561
+    },
+    "crossref": {
+      "status": 200,
+      "url": "https://api.crossref.org/works/10.1126/science.abf0529",
+      "bytes": 14225
+    },
+    "included": 0,
+    "restriction": "HTTP200跳转页不计全文；首次429的三篇已串行重试成功，保留原失败"
+  },
+  {
+    "route": "Crossref串行重试",
+    "source": "Crossref",
+    "entry": "https://api.crossref.org/works/10.1021/acsami.6c18132",
+    "query": "DOI精确核验",
+    "time": "2026-11-16T09:08:46.647560+08:00",
+    "status": "200",
+    "restriction": "时间为成功响应落盘时间；响应保存于本地证据包；不冒充初次请求成功"
+  },
+  {
+    "route": "Crossref串行重试",
+    "source": "Crossref",
+    "entry": "https://api.crossref.org/works/10.1016/j.niox.2026.11.001",
+    "query": "DOI精确核验",
+    "time": "2026-11-16T09:08:47.845854+08:00",
+    "status": "200",
+    "restriction": "时间为成功响应落盘时间；响应保存于本地证据包；不冒充初次请求成功"
+  },
+  {
+    "route": "Crossref串行重试",
+    "source": "Crossref",
+    "entry": "https://api.crossref.org/works/10.1021/acsnano.9b03184",
+    "query": "DOI精确核验",
+    "time": "2026-11-16T09:08:48.801038+08:00",
+    "status": "200",
+    "restriction": "时间为成功响应落盘时间；响应保存于本地证据包；不冒充初次请求成功"
+  },
+  {
+    "route": "搜索连接器",
+    "source": "Web search connector",
+    "query": [
+      "micromotor nanomotor propulsion November 2026",
+      "\"nitric oxide\" cancer \"November\" \"2026\"",
+      "\"nitric oxide\" nanomotor 2026 November"
+    ],
+    "time": "2026-11-16T09:04—09:05+08:00",
+    "status": "启动握手失败，未获得搜索结果",
+    "included": 0,
+    "restriction": "以实际成功的数据库API替代；Scholar/Semantic Scholar未检索"
+  },
+  {
+    "route": "preprint-pagination",
+    "source": "biorxiv",
+    "entry": "https://api.biorxiv.org/details/biorxiv/2026-11-09/2026-11-16/0",
+    "query": "日期窗口2026-11-09至11-16；每页30，cursor递增30；本地title+abstract正则micromotor|nanomotor|microswim|microrobot|active colloid|nitric oxide|peroxynitrite",
+    "time": "2026-11-16T09:18:34.179768+08:00",
+    "status": "41/50页成功",
+    "retrieved": 1225,
+    "included": 1,
+    "restriction": "包含版本记录而非唯一论文；失败页未完成，不能称穷尽；1项与R02-05版本关联，不增加新原创"
+  },
+  {
+    "route": "preprint-pagination",
+    "source": "medrxiv",
+    "entry": "https://api.biorxiv.org/details/medrxiv/2026-11-09/2026-11-16/0",
+    "query": "日期窗口2026-11-09至11-16；每页30，cursor递增30；本地title+abstract正则micromotor|nanomotor|microswim|microrobot|active colloid|nitric oxide|peroxynitrite",
+    "time": "2026-11-16T09:19:00.714056+08:00",
+    "status": "13/13页成功",
+    "retrieved": 378,
+    "included": 0,
+    "restriction": "包含版本记录而非唯一论文；失败页未完成，不能称穷尽；1项与R02-05版本关联，不增加新原创"
+  },
+  {
+    "route": "预印本版本/全文核验",
+    "source": "bioRxiv",
+    "entry": "https://api.biorxiv.org/details/biorxiv/10.64898/2026.08.09.743791",
+    "query": "DOI所有版本；随后请求v2 JATS XML",
+    "time": "2026-11-16T09:16:45.327078+08:00",
+    "status": "版本API及v2 XML均200",
+    "retrieved": 2,
+    "included": 1,
+    "restriction": "正式版正文未取得；图表图像/独立SI未审，标注数据来自v2未经同行评审版本"
+  },
+  {
+    "route": "PubMed命中ID回查",
+    "source": "Europe PMC",
+    "entry": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:43028154%20OR%20EXT_ID:43024705&format=json&resultType=core",
+    "query": "EXT_ID:43028154 OR EXT_ID:43024705",
+    "time": "2026-11-16T09:23:41.402486+08:00",
+    "status": "200",
+    "retrieved": 2,
+    "included": 1,
+    "restriction": "MeSH命中核对；非综述，弱直接相关体外色氨酸研究保留候补"
+  }
+]

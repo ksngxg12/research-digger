@@ -1,0 +1,106 @@
+[
+  {
+    "id": "P01",
+    "doi": "10.1002/advs.78303",
+    "title": "Catalytic Luminescent Polymer Micromotors With Shape‐Programmed Motion",
+    "date": "2026-10-22",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/advs.78303&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P02",
+    "doi": "10.1016/j.biomaterials.2026.124718",
+    "title": "Achieving the targeted retention of nanomotors via a controllable “braking” mechanism based on molecularly programmed engine disassembly",
+    "date": "2026-10-21",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.biomaterials.2026.124718&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P03",
+    "doi": "10.1126/sciadv.aef9412",
+    "title": "Therapeutic-scale CAR-NK microrobots with programmable swarm navigation for targeted solid tumor therapy",
+    "date": "2026-10-16",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1126/sciadv.aef9412&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P04",
+    "doi": "10.1002/adma.75590",
+    "title": "Re(I)‐Based Molecular Actuator‐Equipped Nanomotors for Integrated Photodynamic and Photomechanical Therapy of Solid Tumor",
+    "date": "2026-11-01",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/adma.75590&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P05",
+    "doi": "10.1073/pnas.2536051123",
+    "title": "Crowding limits relative bacterial surface accumulation with density-induced effective heating",
+    "date": "2026-10-29",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1073/pnas.2536051123&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P06",
+    "doi": "10.1002/smtd.71166",
+    "title": "Enzymatically Active Liposomal Nanobots for the Penetration of Intercellular and Intracellular Barriers",
+    "date": "2026-10-28",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/smtd.71166&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P07",
+    "doi": "10.1002/smll.76361",
+    "title": "Dual Metabolic Inhibition Via Vanadium–NO Synergistic Nanoplatform Potentiates Cancer Immunotherapy",
+    "date": "2026-10-18",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/smll.76361&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P08",
+    "doi": "10.1002/exp2.70238",
+    "title": "A Nitric Oxide–Based STING Agonist Nanoadjuvant With ICD‐Derived Membrane Antigens Unleashes Robust Antitumor Immunity",
+    "date": "2026-10-11",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1002/exp2.70238&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P09",
+    "doi": "10.1016/j.biomaterials.2026.124712",
+    "title": "Self-assembly prodrugs for controlled singlet oxygen release and resistance modulation in deep-tumor photodynamic therapy",
+    "date": "2026-10-16",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.biomaterials.2026.124712&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P10",
+    "doi": "10.3390/polym18202606",
+    "title": "Tumor Microenvironment-Triggered Dual-Prodrug Nanoplatform for Augmented Photodynamic Therapy: Self-Quenched Photosensitizer Activation and Nitric Oxide-Mediated Sensitization",
+    "date": "2026-10-21",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.3390/polym18202606&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P11",
+    "doi": "10.1021/acsomega.6c08430",
+    "title": "Core–Shell Upconversion Platform Based on an Amino-Functionalized ZIF-8 with a Covalently Anchored Ruthenium Nitrosyl Complex for Controlled Release of Nitric Oxide in Biological Media",
+    "date": "2026-10-14",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1021/acsomega.6c08430&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P12",
+    "doi": "10.1039/d6dt01664b",
+    "title": "Nitric oxide release from half-sandwich Ru( ii )- p -cymene acylthiourea nitrite complexes: antiproliferative activities and vasorelaxant properties",
+    "date": "待核（索引列2026-11-03）",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1039/d6dt01664b&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  },
+  {
+    "id": "P13",
+    "doi": "10.1016/j.niox.2026.10.013",
+    "title": "Photophysical and Nitric Oxide Photorelease Properties of Phenyl/thienyl-bridged Ruthenium Nitrosyl Complexes",
+    "date": "2026-11-02",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.niox.2026.10.013&format=json&resultType=core",
+    "status": "旧草稿待重新审查，非正式发表历史"
+  }
+]

@@ -1,0 +1,1061 @@
+[
+  {
+    "doi": "10.1021/acsami.6c18132",
+    "id": "43033202",
+    "title": "Food-Grade Hyaluronidase-Driven Janus Zein Nanomotors for Targeted Curcumin Delivery in Colorectal Microenvironments. ",
+    "authors": "Wang Z, Xu Y, Li W, He R, Yu Z, Ju X.",
+    "firstPublicationDate": "2026-11-16",
+    "routes": [
+      "A",
+      "B"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "增量",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1126/sciadv.aej0289",
+    "id": "43024729",
+    "title": "NIR-enzymatic dual-engine nanomotors overcome cartilage matrix barriers and reprogram the osteoarthritic microenvironment.",
+    "authors": "Xu C, Zhang Y, He Y, Liang H, Wang H, Long Y, Pan J, Ye Y, Li Y, Jiang Y, Lu W, Shen L, Tu Y, Li Y.",
+    "firstPublicationDate": "2026-11-13",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1021/acsami.6c14486",
+    "id": "43016145",
+    "title": "Enzyme-Powered Nanomotor as a Mobile Immobilization Carrier for Facilitating the Enzymatic Degradation of Chitin.",
+    "authors": "Lian K, Hu Y, Deng Y, Zhang K, Chen Y, Li W, Jiang H, Sun J, Mao X.",
+    "firstPublicationDate": "2026-11-12",
+    "routes": [
+      "A"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "增量",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/smtd.71200",
+    "id": "43004671",
+    "title": "Faceted Photocatalytic Microswimmers for Adaptive Navigation and Cargo Transport via Structured Illumination.",
+    "authors": "Bolaños AJ, Gao S, Basharat M, Villa K.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "A"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "重叠边界首次纳入",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-11230753/v1",
+    "id": "PPR1361999",
+    "title": "A Wireless Microrobot for Deep Brain Navigation at the Human Head Scale",
+    "authors": "Qiu T, Zhang M, Mariyanna J, Jeong M, Sagerer A, Tian J, Gao Y, Apolle R, Wang H, Müller A, Tan L, Younis R, Wagner M, Mekler T, Korin N, Morozov K, Leshansky A, Juratli T.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.jcis.2026.141933",
+    "id": "43033771",
+    "title": "Size-tunable bidirectional manipulation of photothermal Marangoni surfers under confinement. ",
+    "authors": "Li Y, Wang L, Zheng X, Chen L, Liu Z, Cui H.",
+    "firstPublicationDate": "2026-11-06",
+    "routes": [
+      "A"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "30天回查补充",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.jcis.2026.141923",
+    "id": "43014147",
+    "title": "Combined effects of aspect ratio and catalytic coating location on active-rod dynamics.",
+    "authors": "Yao F, Xiang Y, Lin Z, Chen W, Wu H.",
+    "firstPublicationDate": "2026-11-04",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.jcis.2026.141914",
+    "id": "43003053",
+    "title": "Morphology-dependent light-triggered assembly of azobenzene-functionalized gold colloids and their intracellular retention.",
+    "authors": "Sun A, Hou Y, Qi G, Zhang C, Qu X.",
+    "firstPublicationDate": "2026-11-04",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.jconrel.2026.115523",
+    "id": "42982137",
+    "title": "Enzyme-driven Janus nanomotor for enhanced diabetic wound healing via deep penetration-mediated biofilm eradication and hypoxia alleviation.",
+    "authors": "Yin Y, Liu S, Xu F, Zhu D, Wang X, Liu Y, Shen F, Huang Y, Qi Y, Luo Q.",
+    "firstPublicationDate": "2026-11-04",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/adma.75590",
+    "id": "42968471",
+    "title": "Re(I)-Based Molecular Actuator-Equipped Nanomotors for Integrated Photodynamic and Photomechanical Therapy of Solid Tumor.",
+    "authors": "Shen QH, Yu LB, Li ZY, Wang P, Yang XT, Han YY, Huang ST, Tan CP.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "A",
+      "B"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1021/acsami.6c19045",
+    "id": "42905999",
+    "title": "Visible-Light-Driven Hematite-Titania Janus Micromotors for Programmable Cargo Manipulation with Magnetically Triggered Release.",
+    "authors": "Kumar H, Panda SK, Andia KC, Das S, Singh DP.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/advs.78303",
+    "id": "42921878",
+    "title": "Catalytic Luminescent Polymer Micromotors With Shape-Programmed Motion.",
+    "authors": "Zhang Y, Huang W, Gao X, He Y, Huang F, Yu T.",
+    "firstPublicationDate": "2026-10-22",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1039/d6sm00464d",
+    "id": "42905128",
+    "title": "Accelerated microswimmer maze solving <i>via</i> spatiotemporally patterned stimuli.",
+    "authors": "Desgranges C, Delhommelle J.",
+    "firstPublicationDate": "2026-10-21",
+    "routes": [
+      "A"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/smll.76629",
+    "id": "43004808",
+    "title": "A Scale-up DNA Network-Driven Autophagy Trap Gated by Cascade Logic Circuits to Program Cancer Cell Death.",
+    "authors": "Chang R, Li X, Wang Q, Liu Y, Shi L, Li T.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "B"
+    ],
+    "decision": "排除主选",
+    "reason": "分子机器/检测或细胞内逻辑装配，摘要未显示粒子空间主动推进；不与游泳马达混同",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.talanta.2026.130831",
+    "id": "42933160",
+    "title": "Cascade DNA walker-driven photo-controlled CRISPR/Cas12a nanorobot enabling ultrasensitive one-pot detection of dual miRNAs in triple-negative breast cancer.",
+    "authors": "Yu L, Li X, Huang L.",
+    "firstPublicationDate": "2026-10-25",
+    "routes": [
+      "B"
+    ],
+    "decision": "排除主选",
+    "reason": "分子机器/检测或细胞内逻辑装配，摘要未显示粒子空间主动推进；不与游泳马达混同",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.biomaterials.2026.124718",
+    "id": "42925647",
+    "title": "Achieving the targeted retention of nanomotors via a controllable \"braking\" mechanism based on molecularly programmed engine disassembly.",
+    "authors": "Wang X, Ye L, Zhou T, Wang H, Chen L, Han X.",
+    "firstPublicationDate": "2026-10-21",
+    "routes": [
+      "B"
+    ],
+    "decision": "相关候补待审",
+    "reason": "保留运动/肿瘤/迁移线索；本期优先四项问题，未取得足够正文/SI，不作已完成去重",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/adma.75722",
+    "id": "43034151",
+    "title": "Materials Control of Nitric Oxide in Cancer Immunotherapy. ",
+    "authors": "Wang X, Wang Q, Wu S, Gao W, He S, Zou B, Li Z.",
+    "firstPublicationDate": "2026-11-14",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1126/sciadv.aeg8936",
+    "id": "43024705",
+    "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation.",
+    "authors": "Li H, Lin Q, Xie Y, He X, Yang S, Zhou Y, Zhao X, Wang X, Han Y, Cao F, Gan L, Zhang S, Liu P.",
+    "firstPublicationDate": "2026-11-13",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "增量",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1039/d6ra08121e",
+    "id": "43017281",
+    "title": "Discovery of new polyacetylenes from the rhizomes of <i>Adenia cardiophylla</i> through activity-directed phytochemical investigation and evaluation of their anti-inflammatory properties.",
+    "authors": "Tran DH, Nguyen QPN, Van Thanh Vo N, Truong DDK, Ly TL, Yoon YC, Hoang AV, Kwon SW, Ma CT.",
+    "firstPublicationDate": "2026-11-11",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.neuro.2026.103600",
+    "id": "43014571",
+    "title": "Maropitant Attenuates Oxaliplatin-Induced Neurobehavioral Impairments and Hippocampal Molecular Alterations in Rats.",
+    "authors": "Aslanlar DA, Esra Nurullahoglu Atalik K, Mehmet ÖZ, Yildiz İ, Yilmaz MT, Arslan E, Erdal H.",
+    "firstPublicationDate": "2026-11-11",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-11399583/v1",
+    "id": "PPR1364366",
+    "title": "Spirulina platensis Polysaccharides: Evaluation of Immunomodulatory Activity and Mechanism via NF-κB Signaling Pathway Activation in RAW264.7 Cells",
+    "authors": "Pan L, Zhang W, Li J, Wu R, Niu T, Song S, Yang S, Luo G, Ren H.",
+    "firstPublicationDate": "2026-11-11",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.22541/authorea.15011872/v1",
+    "id": "PPR1363464",
+    "title": "Collaboration, Citation Impact, and Thematic Evolution in Pharmacology: Evidence from a 76-year Bibliometric Analysis of Q1 Journals",
+    "authors": "Kiss C, Roussel N, Vignon G, Engh MA, Whalley C, Ferdinandy P, Molontay R.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/adma.75668",
+    "id": "43004494",
+    "title": "A Dual-Locked and H<sub>2</sub>S-NO Tandem-Activatable NIR-II Nanoagent for Colon Cancer Theranostics.",
+    "authors": "Zhang X, Li L, Ren Y, Ma X, Zhao H, Tang Y.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.expneurol.2026.116115",
+    "id": "43003295",
+    "title": "Effects of exercise preconditioning on neuroinflammatory and neuroprotective markers in animal models of stroke: A systematic review and meta-analysis.",
+    "authors": "Li Y, Wu M, Zhu L.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "C2"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s12032-026-03498-x",
+    "id": "43002338",
+    "title": "Mineralocorticoid receptor antagonists for VEGF-pathway inhibitor-associated hypertension and proteinuria: biological rationale, clinical evidence, and a hypothesis-generating framework.",
+    "authors": "Sagawa T, Umehara K, Izumi M, Kawamura K, Fujikawa K.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "C2"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1111/vco.70120",
+    "id": "43000681",
+    "title": "Comparative Immunoreactivity of iNOS, PCNA and p53 in Stable and Progressive Canine Transmissible Venereal Tumours.",
+    "authors": "Dincel GC, Yıldırım S, Anteplioğlu T, İlhan F, Karasu A, Cetin N, AlOlayan E, El-Ashram S.",
+    "firstPublicationDate": "2026-11-08",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.4149/neo_2026_260421n126",
+    "id": "42985878",
+    "title": "METTL14 promotes the malignant proliferation of Ewing sarcoma cells and induces the M2 polarization of tumor-associated macrophages via the FOXP4-AS1/miR-107/FAM98A axis.",
+    "authors": "He F, Ren T, Tang X.",
+    "firstPublicationDate": "2026-11-06",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3390/ijms27219925",
+    "id": "43028170",
+    "title": "Chemical Characterization and In Vitro Biological Activity of Edible Desert Truffle <i>Tirmania pinoyi</i> CCASU-TP-03.",
+    "authors": "Elhusseiny SM, Abougalambou S, El-Dessouki AM, Aboshanab KM, El Enshasy HA, Al-Agamy MH, Alyahya K, Ibrahim S.",
+    "firstPublicationDate": "2026-11-05",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/smll.76603",
+    "id": "42984438",
+    "title": "Self-Activated Nitric Oxide Nanogenerators Induce Cuproptosis via Regulating the Endogenous Copper Metabolism for Anti-PD-L1 Blockade Therapy.",
+    "authors": "Zhu L, Leng D, Li J, Dai Y, Zhao Q, Xia Z.",
+    "firstPublicationDate": "2026-11-05",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "30天回查补充",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s11684-026-1235-x",
+    "id": "42982986",
+    "title": "Single-cell transcriptomic atlas of Kidney-Yang and Kidney-Yin deficiency syndromes reveals distinct osteoimmune-stromal programs underlying osteopenia and osteoporosis.",
+    "authors": "Cui J, Liang J, Shi S, Wang X, Ji J, Wang H, Yu X, Pan M, Liu T, Wu M, Xu H, Shen Y, Fu F, Yuan M, Hong J, Liang Q, Shi Q, Shen L, Tang D, Yuan C, Wang Y.",
+    "firstPublicationDate": "2026-11-05",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.niox.2026.10.012",
+    "id": "42982168",
+    "title": "Nitric oxide at the crossroads of inflammation, immunity and metastasis in colorectal cancer: Therapeutic implication.",
+    "authors": "Kamath RR, Sivakumar G, Veeraiyan D, Namani A, Patra T.",
+    "firstPublicationDate": "2026-11-04",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s11259-026-11601-w",
+    "id": "42972163",
+    "title": "Dose-response effects of dietary luteolin-loaded chitosan nanoparticles on growth and physiological responses of post-weaning rabbits reared under summer heat stress.",
+    "authors": "Thagfan FA, Al-Hoshani N, Mohamed RAEH, Ahmed KAE, Abdelnour SA, Abd-Elkarim MM.",
+    "firstPublicationDate": "2026-11-03",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s13659-026-00657-5",
+    "id": "42970036",
+    "title": "Isolation, structural characterization, immunomodulatory and indirect tumoricidal activities of an inulin-type fructan from Platycodon grandiflorus via macrophage M1 polarization through the TLR4/NF-κB pathway.",
+    "authors": "Wang CX, Liao PY, Yin CL, Wang Y, Hu J, Li K, Li ZK, Sun YJ, Li XY, Hu JM, Li N, Kuang MT.",
+    "firstPublicationDate": "2026-11-02",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.4103/ijp.ijp_247_26",
+    "id": "42969994",
+    "title": "Chemoprotective effect of pinoresinol diglucoside against 1,2-dimethylhydrazine-induced colorectal cancer through regulation of nuclear factor-kappa B/inducible nitric oxide synthase/cyclooxygenase-2 signaling and gut dysbiosis.",
+    "authors": "Hong H, Tian Z, Gao B.",
+    "firstPublicationDate": "2026-11-02",
+    "routes": [
+      "C2"
+    ],
+    "decision": "NO相关候补待审",
+    "reason": "需核查直接机制与领域迁移条件；不把题名相关等同可纳入",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.4103/ijp.ijp_156_26",
+    "id": "42969989",
+    "title": "Protective effect of gossypin against high-fat diet-induced atherosclerosis in rats: Role of the phosphoinositide 3-kinase/AKT/mechanistic target of rapamycin pathway and gut microbiota.",
+    "authors": "Wang Y, Kumar A, Lu F.",
+    "firstPublicationDate": "2026-11-02",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.4103/ijp.ijp_170_26",
+    "id": "42969988",
+    "title": "Aromadendrin attenuates isoproterenol-induced myocardial injury via modulation of oxidative stress, apoptosis, and mitogen-activated protein kinase/nuclear factor erythroid 2-related factor 2 signaling pathways.",
+    "authors": "Wang Z, Kumar A, Du L.",
+    "firstPublicationDate": "2026-11-02",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.4103/ijp.ijp_133_26",
+    "id": "42969985",
+    "title": "Protective effect of glyburide on wound healing in streptozotocin-induced diabetic rats via alteration of NF-κB/transforming growth factor-β and cellular jun/platelet-derived growth factor-vascular endothelial growth factor signaling pathways.",
+    "authors": "Fu X, Wang F, Zhang W, Li W, Sun X.",
+    "firstPublicationDate": "2026-11-02",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/cbdv.71926",
+    "id": "43032959",
+    "title": "Biological and In Silico Evaluation of Two Nitrogen-Sulfur Heterocycles: Limited Cytotoxic, Antioxidant, and Antimicrobial Activities With Preliminary Anti-Inflammatory Effects. ",
+    "authors": "Çetin D, Konuş M, Otur Ç, Yılmaz C, Namalır G, Çeviren B, Arslan Ş, Abdelsalam AH, Kozansoy C, Kızıldoğan AK, Kavak E, Algso MAS, Kivrak A.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": null,
+    "id": "43009326",
+    "title": "[Effect of the IL-33/ST2 signaling pathway on microglia polarization].",
+    "authors": "Zheng S, He Y, Qu Z.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-10895839/v1",
+    "id": "PPR1354645",
+    "title": "Changes in Metabolic, Inflammatory, and Vascular Markers During a 4-Week Residential Exercise and Dietary Intervention in Adolescents With Obesity: An Exploratory Pre-Post Study",
+    "authors": "Cong Y, Shang Y.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/cbdv.71885",
+    "id": "42960981",
+    "title": "Comparison of Chemical Components, Anti-Inflammatory Effect and Cytotoxicity to Cancer Cells of Essential Oils From Different Parts of Celosia argentea.",
+    "authors": "Tran GB, Pham TV, Hoang TX, Nguyen NH, Do BH.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/jbt.71131",
+    "id": "42929009",
+    "title": "Theranekron Attenuates Inflammation, Oxidative Stress Index, and Apoptosis in Lipopolysaccharide-Induced Cardiovascular Toxicity: Association With Hypoxia-Inducible Factor-1 Alpha-Related Gene Expression.",
+    "authors": "Savran M, Asci H, Imeci O, Oguzlar FC, Ozmen O.",
+    "firstPublicationDate": "2026-11-01",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s13205-026-05098-y",
+    "id": "42968801",
+    "title": "Exploring the therapeutic potential of <i>Erycibe paniculata</i> (Roxb.): metabolite profiling and antimalarial, anticancer, and modulation of NF-κB signaling pathway for anti-inflammatory activities.",
+    "authors": "Babu SK, Ali SM, Sahoo DR, Naik E, Pradhan R, Behera S, Verma S, Naik PK.",
+    "firstPublicationDate": "2026-10-31",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.cbi.2026.112408",
+    "id": "42962782",
+    "title": "Redox-active coumarin derivatives: Chemico-biological mechanisms linking oxidative stress, mitochondrial dysfunction and regulated cell death.",
+    "authors": "Kubrak TP, Bogucka-Kocka A.",
+    "firstPublicationDate": "2026-10-30",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s00210-026-06032-y",
+    "id": "42961645",
+    "title": "Beyond LDL-C reduction: molecular pleiotropy and emerging therapeutic roles of statins.",
+    "authors": "Shadab A, Siddiqui MA.",
+    "firstPublicationDate": "2026-10-30",
+    "routes": [
+      "C2"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.colsurfb.2026.116288",
+    "id": "42994102",
+    "title": "Green synthesis of MgO-Se nanomaterials using Streptomyces and their anti-inflammatory effects in osteoarthritis-like cell models.",
+    "authors": "Huang TY, Chen JY, Manurung YA, Su WT.",
+    "firstPublicationDate": "2026-10-29",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.64898/2026.10.23.760846",
+    "id": "PPR1354347",
+    "title": "A preclinical platform for focused ultrasound delivery from microplate to awake brain",
+    "authors": "Bell MS, Williams MJ, Walton CM, Hughes BW, Roddey TS, Oldham BB, Bruno CE, Peterson KD, Kendrick BJ, Caiello BP, Miller BA, Rowland NC, Sahin O, Strickland BA.",
+    "firstPublicationDate": "2026-10-29",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.colsurfb.2026.116282",
+    "id": "42950388",
+    "title": "Restoration of bone homeostasis through controlled delivery of a nitric oxide prodrug from microspheres for long-acting postmenopausal osteoporosis therapy.",
+    "authors": "He GY, Chen YH, Tsai MC, Chen MC.",
+    "firstPublicationDate": "2026-10-27",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "NO相关候补待审",
+    "reason": "需核查直接机制与领域迁移条件；不把题名相关等同可纳入",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s12013-026-02191-0",
+    "id": "42932153",
+    "title": "Second-Generation Combined Oral Contraceptives Induce Early Cardiovascular Risk Through Inflammatory and Oxidative Vascular Remodeling.",
+    "authors": "Allen MO, Salami SA, Olumide OM, Lawal-Bamidele OA, Murtala BA.",
+    "firstPublicationDate": "2026-10-26",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.bioorg.2026.110685",
+    "id": "42945715",
+    "title": "Ligulaplenolides A-S, nineteen undescribed eremophilane-type sesquiterpenoids from Ligularia platyglossa and their anti-inflammatory activity.",
+    "authors": "Zhu XS, Wang Q, Yang TR, Fu T, Pan WJ, Yang GT, Chen H, Sun H, Su LH, Xu M.",
+    "firstPublicationDate": "2026-10-24",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s12017-026-08952-7",
+    "id": "42925361",
+    "title": "Interferon Regulatory Factor 8 Drives Autoimmune Neuroinflammation in Experimental Autoimmune Encephalomyelitis.",
+    "authors": "Ojika H, Kunisawa K, Tanabe M, Kon Y, Yoshidomi K, Naruoka Y, Ogawa M, Kondo M, Takeuchi S, Sugiyama A, Tezuka H, Doi H, Tana, Nabeshima T, Mouri A.",
+    "firstPublicationDate": "2026-10-24",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1039/d6md00464d",
+    "id": "43017615",
+    "title": "Synthesis, biological evaluation, and <i>in silico</i> studies of paracetamol-derived 4-hydroxyphenylamino-pyridine conjugates as analgesic agents.",
+    "authors": "Srour AM, Abdelglil MI, Abdelhameed MF, Nagy AM, Zaid AN, El-Rashedy AA, Abdelwahed S, Saleh A, Ismail AEA.",
+    "firstPublicationDate": "2026-10-23",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1021/acsomega.6c05592",
+    "id": "42991854",
+    "title": "Trichochromones B-D: Unusual Spirotetrahydrochromanone Lactones with Anti-Inflammatory Activity from the Sponge-Associated Fungus <i>Purpureocillium lilacinum</i> XI 4-1.",
+    "authors": "Zhao M, Zheng Y, Aierken N, Zhang J, Mándi A, Han H, Zhang W.",
+    "firstPublicationDate": "2026-10-23",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s00210-026-06034-w",
+    "id": "42909587",
+    "title": "Tangeretin protects against nodularin-R-induced hepatotoxicity by modulating oxidative stress, inflammation, and apoptosis.",
+    "authors": "Sahindokuyucu-Kocasari F, Cihan-Kara Z, Ozmen O, Erdemli-Kose SB.",
+    "firstPublicationDate": "2026-10-23",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3389/fimmu.2026.1884705",
+    "id": "42985020",
+    "title": "Interferon regulatory factor 1: a key transcriptional node orchestrating macrophage polarization: mechanisms and therapeutic potential.",
+    "authors": "Cao S, Feng S, Gao Y, Sun Z, Bai S, Su X.",
+    "firstPublicationDate": "2026-10-21",
+    "routes": [
+      "C2"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3390/polym18202606",
+    "id": "42942727",
+    "title": "Tumor Microenvironment-Triggered Dual-Prodrug Nanoplatform for Augmented Photodynamic Therapy: Self-Quenched Photosensitizer Activation and Nitric Oxide-Mediated Sensitization.",
+    "authors": "Gu Y, Ding J, Zhang J, Liu X, Xu Z, Zhang J, Qu X.",
+    "firstPublicationDate": "2026-10-21",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "NO相关候补待审",
+    "reason": "需核查直接机制与领域迁移条件；不把题名相关等同可纳入",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3390/ijms27209389",
+    "id": "42942154",
+    "title": "Extracellular Vesicles from Buccal Fat Pad-Derived Dedifferentiated Fat Cells Modulate Inflammatory Macrophage Responses and Attenuate Temporomandibular Joint Osteoarthritis.",
+    "authors": "Oku H, Nishiguchi Y, Yamamoto T, Jo JI, Hashimoto Y, Kubo H, Takenobu T.",
+    "firstPublicationDate": "2026-10-21",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3389/fcell.2026.1936991",
+    "id": "42978946",
+    "title": "Mechanochemical coupling in lung cancer: how tissue tension drives genomic instability and malignant progression.",
+    "authors": "Wang T, Xiao Q.",
+    "firstPublicationDate": "2026-10-20",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.64898/2026.10.18.759957",
+    "id": "PPR1346450",
+    "title": "GLP1R agonists and vorasidenib converge on peroxynitrite-mediated cytotoxicity in mutant IDH glioma",
+    "authors": "Taglang C, Udutha S, Phoenix T, Lathia JD, de Groot J, Viswanath P.",
+    "firstPublicationDate": "2026-10-20",
+    "routes": [
+      "C2"
+    ],
+    "decision": "NO相关候补待审",
+    "reason": "需核查直接机制与领域迁移条件；不把题名相关等同可纳入",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.neulet.2026.138765",
+    "id": "42896818",
+    "title": "Endpoint-specific interactions between aerobic exercise and benfotiamine in chronic noise-induced prefrontal cortical dysfunction in mice.",
+    "authors": "Ziari HA, Shaki F, Seyedabadi M, Safarzade A, Amiri FT.",
+    "firstPublicationDate": "2026-10-19",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1039/d6fo01986b",
+    "id": "42831322",
+    "title": "Sciadonic acid ameliorates cognitive impairment in APP/PS1 mice with concomitant modulation of gut microbiota and brain metabolism.",
+    "authors": "Xie S, Zheng B, Li M, Zheng B, Shen G, Xiang X, Chen L.",
+    "firstPublicationDate": "2026-10-19",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1002/smll.76361",
+    "id": "42893571",
+    "title": "Dual Metabolic Inhibition Via Vanadium-NO Synergistic Nanoplatform Potentiates Cancer Immunotherapy.",
+    "authors": "Tian R, Song Z, Lan Z, Liu Q, Cheng Z, Han B, Ma M, Chen H.",
+    "firstPublicationDate": "2026-10-18",
+    "routes": [
+      "C2",
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s11011-026-01992-9",
+    "id": "42891903",
+    "title": "Quassin ameliorates acute cerebral infarction with attenuation of NF-κB signaling and neuroinflammation.",
+    "authors": "Luo Z, Zhang X, Liao J, Zhou Y, Mao Y, Tang J.",
+    "firstPublicationDate": "2026-10-17",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s00210-026-05973-8",
+    "id": "42888314",
+    "title": "Comparative hepatoprotective effects of Ginkgo biloba extract and N-Acetylcysteine against methotrexate-induced liver injury in rats: modulation of IκB-α, p38 MAPK, and p53 phosphorylation.",
+    "authors": "Abdel-Rasol MA, Abbas RAR, Al-Hamadani MYI, El-Sayed WM.",
+    "firstPublicationDate": "2026-10-17",
+    "routes": [
+      "C2"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.niox.2026.11.001",
+    "id": "43025624",
+    "title": "Mitochondrial Signaling: Nitric Oxide Synthesis by Cytochrome c Oxidase and Its Oxygen Sensitivity Are Modulated by Adenine Nucleotides.",
+    "authors": "Castello PR, Ball KA, Poyton RO.",
+    "firstPublicationDate": "2026-11-13",
+    "routes": [
+      "C3"
+    ],
+    "decision": "纳入；六项分析",
+    "reason": "版本更新（非新原创）",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1039/d6mh01455k",
+    "id": "43018134",
+    "title": "Hydrolysable arginine diesters enhance tendon rupture healing <i>via</i> intramuscular injection and modulation of macrophage arginine metabolism.",
+    "authors": "Wang Y, Lin J, Li Y, Li H, Geng W, Guo Y, You X, Hou J, Wu J.",
+    "firstPublicationDate": "2026-11-12",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.ab.2026.116292",
+    "id": "43003244",
+    "title": "Development of a photocleavable PEG-maleimide band-shift assay for S-nitrosylated apolipoprotein E in human cerebrospinal fluid.",
+    "authors": "Iinuma W, Uematsu Y, Kinoshita I, Matsuura H, Shimizu R, Yamauchi K.",
+    "firstPublicationDate": "2026-11-09",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1007/s00299-026-04037-8",
+    "id": "42986460",
+    "title": "Decoding plant responses to herbivory: the emerging role of extracellular ATP and purinergic receptors.",
+    "authors": "Yadav MN, Meena MK.",
+    "firstPublicationDate": "2026-11-05",
+    "routes": [
+      "C3"
+    ],
+    "decision": "不计原创；框架阅读候补",
+    "reason": "综述，不作本期新原创",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.3390/ijms27219658",
+    "id": "43027906",
+    "title": "2B9-Fc Ameliorates Immune Thrombocytopenia by Suppressing STAT1-Mediated M1 Macrophage Polarization and Expanding Regulatory T Cells.",
+    "authors": "Yang S, Xing S, Shen X, Zhu W, Ge M, Xiao H, Yu K, Yu Z.",
+    "firstPublicationDate": "2026-10-28",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.actbio.2026.10.058",
+    "id": "42950997",
+    "title": "A cascade-targeted nanoplatform for in situ remodeling of the atherosclerotic plaque microenvironment through bidirectional cholesterol regulation and ROS/NO rebalancing.",
+    "authors": "Guan Q, Li Z, Qiao G, Du J, Liu M, Zhang L, He L, Yang Q, Liu L, Shen M, Li Y.",
+    "firstPublicationDate": "2026-10-28",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1016/j.jot.2026.101240",
+    "id": "42964790",
+    "title": "Establishing a functional osteochondral-synovial ex vivo joint model: Systematic evaluation of glucose and oxygen impact.",
+    "authors": "Safari F, Zvicer J, Grad S, Stoddart MJ, Li Z.",
+    "firstPublicationDate": "2026-10-24",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1080/09205063.2026.2740602",
+    "id": "42900622",
+    "title": "Multifunctional nanocomposite with stage-responsive behavior for wound healing.",
+    "authors": "Hou Y, Wu K, Zhang X, Duan W, Wang X, Zhu C, He Q, Wang L.",
+    "firstPublicationDate": "2026-10-20",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "doi": "10.1080/1061186x.2026.2746429",
+    "id": "42847541",
+    "title": "Orally administered acarbose-guar gum solid dispersion mitigates diabetes-induced kidney damage via modulating inflammatory response and oxidative stress in diabetic rats.",
+    "authors": "Suren Garg S, Dubey R, Kumar P, Gupta J.",
+    "firstPublicationDate": "2026-10-19",
+    "routes": [
+      "C3"
+    ],
+    "decision": "题名筛查未选",
+    "reason": "多为非肿瘤炎症、植物/兽医、无明确NO机制或可迁移技术；原始记录保留便于复审",
+    "screening": "主选核原始摘要；其余以题名/类型初筛，候补未作终局排除"
+  },
+  {
+    "title": "Tryptophan and Its Selected Metabolites Modulate Melanoma-Cell Biology: A Preliminary In Vitro Study.",
+    "doi": "10.3390/ijms27219908",
+    "id": "43028154",
+    "decision": "MeSH补充候补待审",
+    "reason": "原创体外黑色素瘤/色氨酸代谢研究；需核NO机制的直接性，未作已完成去重"
+  },
+  {
+    "title": "Crowding limits relative bacterial surface accumulation with density-induced effective heating",
+    "url": "http://arxiv.org/abs/2611.11924v1",
+    "date": "2026-11-09T05:51:18Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Dynamics of a two-dimensional microswimmer near a slippery boundary",
+    "url": "http://arxiv.org/abs/2611.03243v1",
+    "date": "2026-11-02T14:52:55Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Ewald summation of doubly periodic 2- and 3-dimensional Stokes multipoles",
+    "url": "http://arxiv.org/abs/2611.00308v1",
+    "date": "2026-10-30T19:30:10Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Microswimmers lose by swimming selfishly",
+    "url": "http://arxiv.org/abs/2610.41965v1",
+    "date": "2026-10-30T16:14:43Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "The effects of hydrodynamic interactions on the swimming velocity and stability of a swarm of microswimmers",
+    "url": "http://arxiv.org/abs/2610.38689v1",
+    "date": "2026-10-28T18:57:20Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Multi-scale patterns arising from competing chemotactic interactions",
+    "url": "http://arxiv.org/abs/2610.32591v1",
+    "date": "2026-10-23T13:16:20Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Emergent non-reciprocal pair interactions in catalytically propelled active polyhedra",
+    "url": "http://arxiv.org/abs/2610.27821v1",
+    "date": "2026-10-20T08:12:29Z",
+    "version": "v1，未经同行评审",
+    "decision": "相关预印本候补（非主选）",
+    "reason": "理论或实验相关，尚未进行全文、正式版和最近邻审查；非已完成去重；PNAS同题记录须合并版本"
+  },
+  {
+    "title": "Mitochondrial Signaling: Nitric Oxide Synthesis by Cytochrome c Oxidase and Its Oxygen Sensitivity Are Modulated by Adenine Nucleotides",
+    "doi": "10.64898/2026.08.09.743791",
+    "date": "2026-11-10",
+    "version": "2",
+    "decision": "R02-05版本关联",
+    "reason": "题名作者匹配；不重复计数"
+  },
+  {
+    "title": "Ferrybots: Programmable Hydrogel Microbots for Rapid Magnetic Navigation and Modular Function",
+    "doi": "10.64898/2026.11.11.763821",
+    "date": "2026-11-13",
+    "version": "1",
+    "decision": "候补/未选",
+    "reason": "关键词初筛，需领域适配性审查；未当新发现"
+  },
+  {
+    "title": "Magnetic nanoparticle enrichment reveals conserved nitric oxide burst responses in Arabidopsis and wheat",
+    "doi": "10.64898/2026.11.12.765547",
+    "date": "2026-11-15",
+    "version": "1",
+    "decision": "候补/未选",
+    "reason": "关键词初筛，需领域适配性审查；未当新发现"
+  },
+  {
+    "title": "Gene-based map of cardiovascular diseases",
+    "doi": "10.64898/2026.11.11.26367883",
+    "date": "2026-11-13",
+    "version": "1",
+    "decision": "候补/未选",
+    "reason": "关键词初筛，需领域适配性审查；未当新发现"
+  }
+]

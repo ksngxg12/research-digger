@@ -1,0 +1,339 @@
+[
+  {
+    "id": "R02-01",
+    "doi": "10.1002/smtd.71200",
+    "zh": "晶面光催化微游泳体以结构光实现导航与载物",
+    "deep": true,
+    "tags": [
+      "基础研究"
+    ],
+    "drive": "光催化",
+    "no_role": "无NO",
+    "therapy": "无",
+    "status": "重叠边界首次纳入",
+    "innovation": "机制与运动控制拓展。作者把同一光场分成能量供给和空间边界信息：均匀光激活运动，图案光引导粒子沿明暗界面持续重定向。新增贡献是无需逐颗反馈的边界耦合与动态重编程，不是发现新的光催化材料。",
+    "problem": "解决光催化粒子能够移动却难沿复杂路径可重复运货的问题。摘要列出荧光映射、EPR、示踪粒子、晶面分布对照和数值模拟，支持部分受光→反应不对称→局部化学梯度/流场的解释。证据链比仅给轨迹更完整，但本次未取得正文，不能审核每项对照的定量充分性。",
+    "results": "可核的原始摘要报告静态/动态路径、同一视野的独立轨迹，以及沿受限和蛇形路径捕获、运输、释放货物。摘要未给粒径、速度、光波长/功率、燃料浓度、边界跟随误差、载物成功率、n和误差；因此不能将“精确导航”变成性能数值。无NO或肿瘤实验。",
+    "limits": "获取限制：Wiley正文403，补充材料未读。分析判断：示踪流场能证明存在流动，但仍须核对流动相对于粒子的局域性、温升和整体对流扣除；EPR识别反应物种不直接证明哪一种梯度产生净推进。结构光可达性及蛋白/盐环境适用性未能核验，不推断已适用于深部肿瘤。",
+    "experiment": "最小实验：保持总吸收功率相同，比较均匀光、单侧遮光及镜像图案；同步记录温度、惰性示踪粒子和马达速度/转向率。再在逐级加盐及血清条件下测跟随误差，判断化学泳、热流和边界耦合各自的贡献。",
+    "inherit": "继承单组分BiVO₄的光驱动与捕获能力，新增结构光边界导航。比较基准直接来自本作Crossref参考文献；两作光照/介质未对齐，不作速度排名。",
+    "neighbors": [
+      {
+        "doi": "10.1021/acsnano.9b03184",
+        "year": "2019",
+        "title": "Visible-Light-Driven Single-Component BiVO₄ Micromotors with the Autonomous Ability for Capturing Microorganisms",
+        "system": "单组分星形BiVO₄",
+        "mechanism": "可见光催化运动、开关光控制酵母捕获/释放",
+        "conditions": "水相/可见光；摘要未给可对齐的功率、速度",
+        "result": "单体/集群运动与货物运输；非定量导航基线",
+        "strength": "原始摘要与DOI元数据；未读全文",
+        "limit": "未证明本期式结构光路径控制"
+      }
+    ],
+    "title": "Faceted Photocatalytic Microswimmers for Adaptive Navigation and Cargo Transport via Structured Illumination",
+    "journal": "Small Methods",
+    "date": "2026-11-09",
+    "authors": "Angie J. Bolaños, Shang Gao, Majid Basharat, Katherine Villa",
+    "url": "https://doi.org/10.1002/smtd.71200",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-01",
+    "institution": "Institute of Chemical Research of Catalonia (ICIQ), The Barcelona Institute of Science and Technology (BIST), Tarragona, Spain.；Departament De Química Física i Inorganica, Universitat Rovira i Virgili, Tarragona, Spain.；Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain.",
+    "corresponding": "未核实；不以末位作者推定",
+    "date_note": "Crossref与Europe PMC在线日一致；11-09只有日期无时刻，无法确定在上次09:07:37截止之前还是之后，不计入明确增量"
+  },
+  {
+    "id": "R02-02",
+    "doi": "10.1021/acsami.6c18132",
+    "zh": "透明质酸酶驱动玉米醇溶蛋白Janus马达递送姜黄素",
+    "deep": true,
+    "tags": [
+      "马达肿瘤治疗"
+    ],
+    "drive": "酶催化",
+    "no_role": "无NO",
+    "therapy": "化疗/天然产物",
+    "status": "增量",
+    "innovation": "材料结构与酶界面工程。Pickering乳液模板和京尼平交联构建半亲水/半疏水玉米醇溶蛋白Janus颗粒，同时固定透明质酸酶（HAase）并载姜黄素。作者将酶构象稳定、质量传递改善及HA依赖运动联系起来；本次支持“结构改变与功能改善相关”，尚不能只归因于运动。",
+    "problem": "姜黄素溶解度/递送差，HA丰富基质限制进入肿瘤球。HAase既可能产生局部反应梯度，也直接降解基质；这两条路径必须拆分。所谓食品级组分提供材料选择思路，但食品使用经历不等同于注射、长期或动物体内安全证据。",
+    "results": "原始摘要：固定化HAase的kcat/Km为游离酶的4.01倍；有效扩散系数63.69 μm²/s，是全修饰HAase-CZ-NPs的8.2倍。HT-29体外模型IC50=1.364 μg/mL；12 h肿瘤球中心杀伤指标为对照的7.9倍。摘要未交代粒径、HA浓度、追踪帧率/拟合模型、载药归一化、IC50质量基准、n或误差。扩散系数不是定向速度，7.9倍也不是动物抑瘤率。",
+    "limits": "获取限制：ACS正文403，SI未取得。分析判断：全修饰与Janus颗粒同时改变酶活、表面和分布，不能作为只改变运动的严格对照；催化效率升高本身即可加强基质降解。摘要只支持体外球体，未见可核验的体内导航、分布/清除或长期安全数据。不能由底物依赖扩散增强直接指定自扩散泳机制。",
+    "experiment": "最小实验：采用等粒径、等载药、等有效HAase活性的Janus/对称颗粒，加入黏度匹配的非HA介质、催化失活酶和游离HAase预处理组；同时测HA分子量下降、基质孔隙、扣漂移MSD和球体深度分布。先估计降解收益，再检验剩余运动收益。",
+    "inherit": "双线对照：与尿素酶球体递送比较“反应与运动耦合”，与无马达HAase基质处理比较“降解本身的收益”。它们是问题/机制近邻，模型和药物不同，不能直接排名。",
+    "neighbors": [
+      {
+        "doi": "10.1021/acsnano.8b06610",
+        "year": "2018在线/2019卷期",
+        "title": "Targeting 3D Bladder Cancer Spheroids with Urease-Powered Nanomotors",
+        "system": "介孔SiO₂/尿素酶/抗FGFR3",
+        "mechanism": "尿素酶反应、增强扩散与抗体靶向",
+        "conditions": "膀胱癌3D球体；模拟/真实尿液",
+        "result": "提高摄取与抑制球体增殖；氨和抗体也可能贡献",
+        "strength": "原始摘要；Crossref在线日2018-12-27与EPMC首发12-31不一致",
+        "limit": "不能把全部作用归给运动；与HAase场景不同"
+      },
+      {
+        "doi": "10.1016/j.mtbio.2021.100164",
+        "year": "2021",
+        "title": "Photoreactive-proton-generating hyaluronidase/albumin nanoparticles-loaded PEG-hydrogel enhances antitumor efficacy and disruption of the hyaluronic acid extracellular matrix in AsPC-1 tumors",
+        "system": "HAase/白蛋白颗粒及PEG水凝胶",
+        "mechanism": "UV产酸激活HAase、破坏HA基质；非马达",
+        "conditions": "AsPC-1球体/荷瘤鼠；局部水凝胶与紫杉醇颗粒",
+        "result": "摘要报告降低pH至约5及增强HA降解/治疗",
+        "strength": "原始摘要；正文未审阅",
+        "limit": "光/酸和药物均有贡献；仅用于证明存在非运动降解路线"
+      }
+    ],
+    "title": "Food-Grade Hyaluronidase-Driven Janus Zein Nanomotors for Targeted Curcumin Delivery in Colorectal Microenvironments",
+    "journal": "ACS Applied Materials &amp; Interfaces",
+    "date": "2026-11-16",
+    "authors": "Zhigao Wang, Ying Xu, Wen Li, Rong He, Zhipeng Yu, Xingrong Ju",
+    "url": "https://doi.org/10.1021/acsami.6c18132",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-02",
+    "institution": "College of Food Science and Engineering, Collaborative Innovation Center for Modern Grain Circulation and Safety, Key Laboratory of Grains and Oils Quality Control and Processing, Nanjing University of Finance and Economics, Nanjing210023, China.；School of Food Science and Technology, National Engineering Research Center of Seafood, Dalian Polytechnic University, Dalian116034, China.；School of Food Science and Engineering, Hainan University, Haikou570228,China.",
+    "corresponding": "未核实；不以末位作者推定",
+    "date_note": "Crossref与Europe PMC在线日一致"
+  },
+  {
+    "id": "R02-03",
+    "doi": "10.1021/acsami.6c14486",
+    "zh": "尿素酶Janus马达作为可移动几丁质酶固定载体",
+    "deep": false,
+    "tags": [
+      "基础研究"
+    ],
+    "drive": "酶催化",
+    "no_role": "无NO",
+    "therapy": "无",
+    "status": "增量",
+    "innovation": "把推进酶与反应酶分工固定，属于结构与反应传质优化；不是肿瘤治疗研究。Janus/对称尿素酶设计用于比较运动，但静电吸附也被作者认为参与增效。",
+    "problem": "解决不溶性几丁质的酶接触不足。尿素酶分解尿素提供运动，固定化Chi B负责降解几丁质。对NO马达的迁移价值仅为“供推进与供治疗的催化单元应分开标定”，并非证明NO体系也会增效。",
+    "results": "原始摘要：相对被动对照，表观Km约降50%，表观kcat/Km增加53%；50 mM尿素下，寡糖终产率是被动Chi B@JUNM的1.34倍、游离Chi B的2.15倍。未给出可核的粒径、速度、轨迹长度、样本量/误差与反应终点时间；表观Km可包含传质效应，不能当成本征酶亲和力变化。",
+    "limits": "ACS正文403，SI未读。分析判断：尿素酶同时改变pH、离子强度和底物吸附；有燃料/无燃料并非纯运动对照。50 mM尿素属于本文反应条件，不能照搬到静脉肿瘤递送环境。",
+    "experiment": "最小实验：固定尿素、pH、离子强度与酶量，以黏度变化/颗粒固定化抑制平移并保持底物可及性，测产率与局部混合；用外源搅拌匹配传质，检验运动是否仍有额外收益。",
+    "inherit": "与同类尿素酶驱动多糖降解工作最近；本次未取得近邻摘要，表格只比较已核元数据和本作数据，不推断谁更优。",
+    "neighbors": [
+      {
+        "doi": "10.1016/j.cej.2024.158988",
+        "year": "2025卷期（本作参考文献）",
+        "title": "Enhanced Enzymatic Degradation of Viscous Marine Polysaccharide by the Self-Propulsion of Urease-Driven Micromotor",
+        "system": "尿素酶马达/海洋多糖酶反应",
+        "mechanism": "自推进促进酶反应（仅题名/引用元数据）",
+        "conditions": "黏性海洋多糖；具体条件未核",
+        "result": "未取得可独立核验数值",
+        "strength": "本作出版社参考文献；Crossref独立请求429，EPMC无命中",
+        "limit": "不能比较本征催化增益或速度"
+      }
+    ],
+    "title": "Enzyme-Powered Nanomotor as a Mobile Immobilization Carrier for Facilitating the Enzymatic Degradation of Chitin",
+    "journal": "ACS Applied Materials &amp; Interfaces",
+    "date": "2026-11-12",
+    "authors": "Kang Lian, Yang Hu, Yaoyao Deng, Keyan Zhang, Yihong Chen, Wanting Li, Hong Jiang, Jianan Sun, Xiangzhao Mao",
+    "url": "https://doi.org/10.1021/acsami.6c14486",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-03",
+    "institution": "State Key Laboratory of Marine Food Processing and Safety Control, College of Food Science and Engineering, Ocean University of China, Qingdao266404, PR China.；Qingdao Key Laboratory of Food Biotechnology, Qingdao266404, PR China.；Key Laboratory of Biological Processing of Aquatic Products, China National Light Industry, Qingdao266404, PR China.",
+    "corresponding": "未核实；不以末位作者推定",
+    "date_note": "Crossref与Europe PMC在线日一致"
+  },
+  {
+    "id": "R02-04",
+    "doi": "10.1126/sciadv.aeg8936",
+    "zh": "无载体Arg-CpG通过细胞类型依赖免疫激活抗肿瘤",
+    "deep": true,
+    "tags": [
+      "NO肿瘤治疗"
+    ],
+    "drive": "非马达",
+    "no_role": "NO相邻研究/免疫调节",
+    "therapy": "免疫治疗",
+    "status": "增量",
+    "innovation": "核酸自组装与NO前体协同。聚L-精氨酸既促进摄取，又被作者提出为iNOS生成NO提供氮源；CpG参与免疫激活。潜在新增点是肿瘤细胞和巨噬细胞的自噬反应不同，不是NO驱动或NO递送马达。",
+    "problem": "核酸不稳定且跨膜效率低，免疫激活又需避免损伤效应细胞。作者报告4T1自噬机器受损，而RAW264.7保留自噬与功能，并将NO与CpG协同联系到抗瘤巨噬细胞表型。摘要支持作者工作模型，尚无法审核NO生成、细胞死亡和免疫效应各自的必需性。",
+    "results": "原始摘要明确4T1和RAW264.7及小鼠体内抗瘤研究，但未给粒径/电荷、Arg:CpG比、CpG序列与剂量、给药途径/频次、NO绝对浓度/通量、释放时程、动物n、抑瘤率或生存数值。本期不补数值，不把“robust”换算为定量疗效。聚精氨酸剂量不等于可利用L-精氨酸或实际NO剂量。",
+    "limits": "Science正文403，SI未读。分析判断：聚精氨酸→可代谢前体→iNOS生成NO之间需要降解和代谢证据；摄取增强及CpG本身均可激活免疫。细胞系之间的自噬差异不自动推广为正常组织普遍安全。对“NO导致表型”的因果应核查iNOS遗传干预、NO救援及自噬通量，而非只看单点LC3或荧光探针。",
+    "experiment": "最小实验：同位素标记聚精氨酸，结合iNOS敲除/抑制、非产NO但等电荷聚合物、CpG单用和NO救援；同步测代谢产物、选择性NO读数和自噬通量。迁移到马达前，先确认蛋白冠、酶/NO环境不破坏核酸装配和免疫功能。",
+    "inherit": "与NO纳米疫苗同属NO和核酸免疫佐剂协同；区别在前体/内源酶生成与外源NOC-18供体，以及主要受影响免疫细胞。不能把邻作STING题名当成本作STING已被验证。",
+    "neighbors": [
+      {
+        "doi": "10.1002/exp2.70238",
+        "year": "2026-10-11（背景）",
+        "title": "A Nitric Oxide-Based STING Agonist Nanoadjuvant With ICD-Derived Membrane Antigens Unleashes Robust Antitumor Immunity",
+        "system": "NOC-18/POLY(I:C)/PLGA及ICD膜抗原",
+        "mechanism": "外源NO供体与核酸佐剂增强抗原呈递",
+        "conditions": "纳米疫苗；预防及联合αPD-1治疗模型",
+        "result": "摘要报告CD8反应/免疫记忆；本次不复用旧草稿未经重审数值",
+        "strength": "本次重取原始摘要与Crossref；题名STING不等于直接激动因果",
+        "limit": "供体、细胞靶点和模型不同；NO空间剂量未对齐"
+      }
+    ],
+    "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation",
+    "journal": "Science Advances",
+    "date": "2026-11-13",
+    "authors": "Huishan Li, Quankun Lin, Yuexia Xie, Xiaozhen He, Shuai Yang, Yan Zhou, Xue Zhao, Xingang Wang, Yongming Han, Fangli Cao, Lu Gan, Sidi Zhang, Peifeng Liu",
+    "url": "https://doi.org/10.1126/sciadv.aeg8936",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-04",
+    "institution": "State Key Laboratory of Systems Medicine for Cancer, Shanghai Cancer Institute, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200032, China.；Department of Medical Oncology, Zhongshan Hospital, Fudan University, Shanghai 200032, China.；Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200127, China.",
+    "corresponding": "未核实；不以末位作者推定",
+    "date_note": "Europe PMC电子日；Crossref未给出一致的完整在线日"
+  },
+  {
+    "id": "R02-05",
+    "doi": "10.1016/j.niox.2026.11.001",
+    "zh": "腺嘌呤核苷酸调节细胞色素c氧化酶产NO能力与氧敏感性",
+    "deep": true,
+    "tags": [
+      "NO化学/生物学"
+    ],
+    "drive": "非马达",
+    "no_role": "NO相邻研究/生成机制",
+    "therapy": "无（机制）",
+    "status": "版本更新（非新原创）",
+    "innovation": "机制拓展：把代谢状态（ADP/ATP）和Cco亚型引入亚硝酸盐还原产NO的调节框架。此前已知低氧下Cco能产NO，本作新增的是核苷酸与氧阈值之间的耦合，不是首次发现线粒体产NO。",
+    "problem": "缺氧条件下NO来源多且反应环境依赖强。作者用去污剂溶解的酵母和小鼠脑线粒体，供给亚硝酸盐及抗坏血酸/TMPD/细胞色素c电子体系，研究产NO催化能力；它并不直接回答完整肿瘤细胞中Cco贡献多少NO。 预印本Fig.1另有热变性、去电子供体、PTIO清除及5 mM叠氮化物抑制对照；它们支持该制备中的酶依赖信号，不等于证明肿瘤生理条件可运行。",
+    "results": "期刊摘要：1 mM亚硝酸盐，ADP效应在O₂≤10 μM最明显；氧依赖差异p=0.004，按实验日分析p=0.027。以下只来自未经同行评审的bioRxiv v2：Methods为30 °C、2 mL、通常50 μg线粒体蛋白、0.5 mM去污剂/200 mM Tris pH 7.0，10 μM细胞色素c和各0.5 mM抗坏血酸/TMPD；Clark型NO与O₂电极同步记录。Fig.2无核苷酸基线0.5 nmol NO·mg protein⁻¹·min⁻¹；Fig.5用5 mM ADP或ATP。Fig.1C及2A/B为三次独立测量、均值±SD。正文以12.5 mM ADP时产NO能力约为基线260%、耗氧约115%说明两种输出不等比例变化。Fig.6的约120 min峰值/240 min回落是缺氧后取样再测催化能力，不是连续完整细胞NO通量。",
+    "limits": "作者在预印本中明确：1 mM亚硝酸盐高于常见组织浓度；去污剂破坏膜电位/质子梯度；电极信号可能是净逸出速率而非总化学生成速率；总细胞NO份额未确定。图7是工作模型，所画铁状态未直接测量。分析判断：电极属于直接电化学读出，但本次所读Methods未找到独立标准曲线/选择性校准细节，不能据型号就认定所有干扰已排除；正式正文与SI未取得，以上预印本细节不视为已核实正式版。",
+    "experiment": "最小实验：完整耦联线粒体→肿瘤细胞逐级验证；在生理相关亚硝酸盐梯度、氧梯度及ADP/ATP矩阵下联合测耗氧、膜电位和经校准NO释放，并对Cco与NOS作正交干预。若只有高底物/去污剂条件阳性，迁移价值限于机制边界而非供能设计。",
+    "inherit": "直接延续2006年Cco低氧还原亚硝酸盐工作，新增核苷酸和亚型调节。2006年阈值与本作效应范围不能直接合并为统一生理阈值。",
+    "neighbors": [
+      {
+        "doi": "10.1016/j.cmet.2006.02.011",
+        "year": "2006",
+        "title": "Mitochondrial cytochrome oxidase produces nitric oxide under hypoxic conditions: Implications for oxygen sensing and hypoxic signaling in eukaryotes",
+        "system": "酵母/大鼠肝线粒体",
+        "mechanism": "Cco、电子供体和亚硝酸盐依赖NO生成",
+        "conditions": "溶解O₂低于20 μM；pH依赖（原始摘要）",
+        "result": "NO生成及酵母CYC7缺氧信号关联",
+        "strength": "原始摘要与Crossref元数据，正文未审阅",
+        "limit": "不能替代本作ADP/ATP与亚型实验；物种/制备不同"
+      }
+    ],
+    "evidence": "期刊摘要＋bioRxiv v2全文XML/图注（未经同行评审版本）；独立SI与表格图像未审",
+    "version_note": "预印本10.64898/2026.08.09.743791：v1于2026-08-10，v2于2026-11-10；期刊电子日2026-11-13。同题同作者支持版本关联，但bioRxiv published字段仍为NA，未回填正式链接。本期按版本更新去重，不计新原创。",
+    "title": "Mitochondrial Signaling: Nitric Oxide Synthesis by Cytochrome c Oxidase and Its Oxygen Sensitivity Are Modulated by Adenine Nucleotides",
+    "journal": "Nitric Oxide",
+    "date": "2026-11-13",
+    "authors": "Pablo R. Castello, Kerri A. Ball, Robert O. Poyton",
+    "url": "https://doi.org/10.1016/j.niox.2026.11.001",
+    "version": [
+      "正式发表",
+      "预印本v1",
+      "预印本v2"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-05",
+    "institution": "Facultad de Ciencias Exactas y Naturales, Universidad de Belgrano, and CONICET, Buenos Aires, . Zabala 1324, 1428 Ciudad de Buenos Aires, Argentina. Electronic address: pablo.castello@comunidad.ub.edu.ar.；Department of Molecular, Cellular, and Developmental Biology, University of Colorado at Boulder, Boulder, CO 80309, USA.；Department of Molecular, Cellular, and Developmental Biology, University of Colorado at Boulder, Boulder, CO 80309, USA. Electronic address: Robert.Poyton@colorado.edu.",
+    "corresponding": "Castello PR, Poyton RO（依据元数据通讯邮箱标识）",
+    "date_note": "Europe PMC电子日；Crossref未给出一致的完整在线日",
+    "first_online": "2026-08-10"
+  },
+  {
+    "id": "R02-06",
+    "doi": "10.1016/j.jcis.2026.141933",
+    "zh": "受限空间下光热Marangoni游动方向的尺寸依赖",
+    "deep": false,
+    "tags": [
+      "基础研究"
+    ],
+    "drive": "光热/Marangoni",
+    "no_role": "无NO",
+    "therapy": "无",
+    "status": "30天回查补充",
+    "innovation": "界面流体动力学与尺度律拓展。将粒径与临界受限比关联到热Péclet数，并结合micro-PIV与LBM，而非单纯优化速度。",
+    "problem": "解释同一光热Janus粒子为何随液膜厚度反向。摘要将壁面阻力、热对流/扩散竞争作为机制；该自由界面Marangoni情形不可直接替代三维组织间质运动。",
+    "results": "原始摘要：半包光热Janus微球40–140 μm；最大反向速度约为非受限速度的70%；研究范围内V/Vbulk=1−(Hc/H)³。未给绝对速度、液膜厚度范围、光功率、温升、n/误差或参数置信区间；70%是本文条件的相对值，公式不能无边界外推。首发2026-11-06（EPMC电子日），Crossref仅到月，属补充发现。",
+    "limits": "仅摘要；Elsevier DOI页200只是跳转不是全文。分析判断：需核实PIV流场是否区分壁面回流和粒子周围自生流，以及尺寸改变是否同步改变吸光/浸润。不能把“反向”解释为肿瘤趋性。",
+    "experiment": "最小实验：固定吸收功率与接触角，扫描H/粒径并测温度/流场；不同黏度及表面活性剂条件下检验同一无量纲曲线是否保持。",
+    "inherit": "最近邻已提出受限Marangoni的前进、反向与静止，本作重点新增粒径扫描与非线性标度。旧作条件/结果本次只核元数据，因此不声称比旧作提升70%。",
+    "neighbors": [
+      {
+        "doi": "10.1103/PhysRevFluids.5.084004",
+        "year": "2020",
+        "title": "Forward, reverse, and no motion of Marangoni surfers under confinement",
+        "system": "受限Marangoni界面游动体",
+        "mechanism": "受限条件下前/反/静止状态（题名/元数据）",
+        "conditions": "具体几何和热边界未审阅",
+        "result": "数值未核实；仅作为同问题近邻",
+        "strength": "Crossref题名/年份/DOI核验",
+        "limit": "本次未读正文，不能比较拟合精度或速度"
+      }
+    ],
+    "title": "Size-tunable bidirectional manipulation of photothermal Marangoni surfers under confinement",
+    "journal": "Journal of Colloid and Interface Science",
+    "date": "2026-11-06",
+    "authors": "Yanran Li, Leilei Wang, Xu Zheng, Li Chen, Zhe Liu, Haihang Cui",
+    "url": "https://doi.org/10.1016/j.jcis.2026.141933",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-06",
+    "institution": "School of Building Services Science and Engineering, Xi'an University of Architecture and Technology, Xi'an 710055, China.；State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China. Electronic address: wangleilei@imech.ac.cn.；State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China.",
+    "corresponding": "Wang L, Cui H（依据元数据通讯邮箱标识）",
+    "date_note": "Europe PMC电子日；Crossref未给出一致的完整在线日"
+  },
+  {
+    "id": "R02-07",
+    "doi": "10.1002/smll.76603",
+    "zh": "自激活NO纳米发生器通过内源铜代谢干预增强免疫治疗",
+    "deep": false,
+    "tags": [
+      "NO肿瘤治疗"
+    ],
+    "drive": "非马达",
+    "no_role": "NO相邻研究/细胞毒性及免疫",
+    "therapy": "铜死亡/免疫治疗",
+    "status": "30天回查补充",
+    "innovation": "NO生成与内源金属代谢联合策略。非铜AZORHP包含精氨酸稳定ZnO₂、MT2A siRNA和MMP-2可切抗PD-L1肽。作者提出NO降低CCS、MT2A沉默及ATP7B抑制共同建立铜释放/滞留网络；不是NO推进证据。",
+    "problem": "希望通过铜依赖死亡增强免疫原性与PD-L1，从而提高免疫阻断效应。NO承担代谢调控/细胞毒性和间接免疫增敏角色；将其迁移至马达需先验证NO释放、铜化学与推进催化剂之间是否互相干扰。",
+    "results": "原始摘要给出CCS、MT2A、ATP7B及PD-L1通路方向，但没有NO剂量、总释放量/速率/持续时间、Cu⁺绝对值、ZnO₂/siRNA剂量、给药方案、动物n、肿瘤体积或生存数值。本期仅作机制候选；“response rate提高”未转写为临床客观缓解率。Crossref在线2026-11-05，属于回查补充。",
+    "limits": "Wiley正文403，SI未读。分析判断：NO/H₂O₂、锌、RNA干预和肽均有独立作用；Arg与H₂O₂体系的NO物种、产率和选择性不能仅靠配方认定。铜依赖毒性不自动等于经典铜死亡，须核查铜螯合救援、脂酰化蛋白聚集及相关遗传依赖。",
+    "experiment": "最小实验：等H₂O₂/锌暴露下做去Arg、NO清除、MT2A单独沉默、铜螯合救援；并检测脂酰化蛋白聚集/Fe-S蛋白变化与FDX1或脂酰化相关干预。同步标定NO以区分NO必要性和氧化应激协同。",
+    "inherit": "与经典铜死亡工作比较机制判据，不比较疗效大小；本作新增内源铜再分配与NO/免疫模块，是否满足经典路径需全文核查。",
+    "neighbors": [
+      {
+        "doi": "10.1126/science.abf0529",
+        "year": "2022（在线3月17；Crossref出版3月18）",
+        "title": "Copper induces cell death by targeting lipoylated TCA cycle proteins",
+        "system": "人细胞铜依赖死亡",
+        "mechanism": "铜结合脂酰化TCA蛋白→聚集、Fe-S蛋白丢失",
+        "conditions": "依赖线粒体呼吸；非NO马达",
+        "result": "建立铜死亡机制框架（原始摘要）",
+        "strength": "原始摘要/DOI元数据；本次未审正文",
+        "limit": "不是本期纳米药效直接对照；需要对齐机制救援"
+      }
+    ],
+    "title": "Self-Activated Nitric Oxide Nanogenerators Induce Cuproptosis via Regulating the Endogenous Copper Metabolism for Anti-PD-L1 Blockade Therapy",
+    "journal": "Small",
+    "date": "2026-11-05",
+    "authors": "Lipeng Zhu, Dongliang Leng, Junnan Li, Yeneng Dai, Qi Zhao, Zanxian Xia",
+    "url": "https://doi.org/10.1002/smll.76603",
+    "evidence": "仅原始摘要与元数据；正式全文/SI未取得",
+    "version": [
+      "正式发表"
+    ],
+    "report": "0002",
+    "report_url": "reports/2026-11-16.html#R02-07",
+    "institution": "School of Life Sciences, Xiangya School of Medicine, Central South University, Changsha, China.；Department of Biomedical Sciences, Faculty of Medicine, University of Macau, Taipa, Macau SAR, China.；Key Laboratory of Study and Discovery of Small Targeted Molecules of Hunan Province, School of Pharmacy, Health Science Center, Hunan Normal University, Changsha, China.",
+    "corresponding": "未核实；不以末位作者推定",
+    "date_note": "Crossref与Europe PMC在线日一致"
+  }
+]
